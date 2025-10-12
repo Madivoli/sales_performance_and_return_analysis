@@ -373,8 +373,7 @@ The analysis categorized products into six segments:
 
 **What is the typical sales amount and profit margin based on category and region?**
 
-
-
+<img width="1502" height="586" alt="image" src="https://github.com/user-attachments/assets/6450218d-cd66-41e1-9c07-4b9a4041e392" />
 
 
 ---
@@ -388,34 +387,91 @@ The analysis categorized products into six segments:
 <img width="1200" height="84" alt="image" src="https://github.com/user-attachments/assets/3227db7f-92c6-444a-894c-6b35fc60e448" />
 
 
+**Key Insights:**
 
--- region - Return Analysis
+- From the analysis, the total number of orders were 11,978, from which **950 products were returned by customers**, representing a **7.93% return rate**.
+
+
+-- By region
 
 <img width="1200" height="336" alt="image" src="https://github.com/user-attachments/assets/f01f8291-f348-42f0-a1f9-fe3f648e9dcc" />
 <img width="1200" height="595" alt="image" src="https://github.com/user-attachments/assets/f28a213e-3cef-48d6-ae8c-2b7ae444803c" />
 
+**Key Insights:**
 
-
-
+- The region with the highest and lowest return rates were the West (571 items) and the South (83 items), representing 15% and 4% of the total returns.
+- The results show significant regional disparity in terms of product returns.
 
 
 -- Return Distribution by Region
 
 <img width="1200" height="197" alt="image" src="https://github.com/user-attachments/assets/a221a2d9-5eea-4a4f-b6c3-8060a099cda8" />
-<img width="723" height="756" alt="image" src="https://github.com/user-attachments/assets/41a3a125-26e2-4f4b-b300-f5abcd0fde42" />
 
+<img width="513" height="481" alt="image" src="https://github.com/user-attachments/assets/4b98eb8a-b5a7-441a-b1c1-31aea7ab21c7" />
+
+
+**Key Insights:**
+
+- The objective is to identify **where returns are concentrated**.
+- The analysis shows that the West accounts for the majority of returns at 60%.
+- In comparison, returns in the East, Central, and South regions are concentrated at 18.7%, 12.4%, and 8.7%, respectively.
+
+  
+--By Product
+
+<img width="1200" height="420" alt="image" src="https://github.com/user-attachments/assets/f0c4ebe5-0ca3-4ba5-83ae-5e340c59e202" />
+
+**Key Insights:**
+
+- The **top 10 returned products** are adjustable height table (7 returns), staple envelope (6 returns), low pile carpets, binders, polypropylene holder, wall hangings, transparent covers, hanging binders, service call books, xerox, line scissors, and encore headset, each 4 returns.
 
 -- Pattern Analysis 
 
 <img width="975" height="392" alt="image" src="https://github.com/user-attachments/assets/63d46dd3-23df-4145-b060-fcaaa9fe5909" />
 
+**Interpretation**
+
+- All correlations are between -0.03 and +0.03, indicating very weak linear relationships with returns. 
+- The most significant, albeit weak, factors are processing days and discounts. 
+- There is a weak negative correlation between processing days and returns (r = -0.028), suggesting that slightly longer processing times are associated with a slight decrease in returns. 
+- There is also a weak negative correlation between discounts and returns, implying that higher discounts are slightly associated with fewer returns. 
+- Conversely, there is a positive weak correlation between profit margin and returns (r = 0.0113), indicating that products with higher profit margins have a slight tendency to have more returns.
+
+**Conclusion**
+
+- No single factor strongly predicts returns; returns are not concentrated in specific product types or customer behaviors.
+- Discounts do not contribute to an increase in returns; in fact, they are slightly linked to a reduced likelihood of returns.
+- Processing time is not a significant issue; faster processing does not lead to an increase in returns.
 
 -- Deeper Analysis
-
+- Since linear correlations are weak, we check for non-linear patterns
+  
 <img width="1200" height="1263" alt="image" src="https://github.com/user-attachments/assets/32f8e81a-3ef6-4f17-88ce-77fc7b1c74af" />
 
--- 
+**Key Insights:**
+- Three key issues are responsible for 80% of return problems: operations in the West region (which have return rates that are 3.5 times higher), Same Day shipping (with a 1.8 times higher return rate), and the Machines category (which has an 11.3% return rate).
+- Addressing these three areas could reduce overall return rates by about 40% and significantly enhance profitability.
+- The immediate focus should be on the West region operations, as this issue has the largest impact on return rates and associated costs.
 
-
-
+---
 **Can we predict the probability of an order being returned based on factors like discount, product category, and profit?**
+
+-- Predictive model
+
+<img width="1350" height="756" alt="image" src="https://github.com/user-attachments/assets/2c080422-bc3e-490e-b2fe-836949244fcc" />
+
+**Interpretation:**
+
+- The **model's accuracy of 92.07%** is quite impressive, indicating that it will correctly predict whether there will be returns 92 times out of 100.  
+- Orders from the **West region are significantly more likely to be returned**, at 64%, compared to the other areas.  
+- The **home office segment is less likely to have returns**, with a coefficient of -0.0913.  
+- The **corporate segment is more likely to have returns**, with a coefficient of +0.032.  
+- The **office supplies category is less likely to be returned**, with a coefficient of -0.021.  
+- The **technology category is more likely to be returned**, with a coefficient of +0.041.  
+
+**Recommendations:**
+
+- Consider regional pricing to account for higher return costs in the West region.
+- Conduct a **root cause analysis (RCA)** to identify the potential reasons for the high returns in the West region.
+- Regional return policy adjustments.
+- Quality control enhancements.
