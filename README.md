@@ -16,35 +16,37 @@ The objective of this project is to conduct a thorough evaluation of Eastnat Lim
 
 ✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻: Which Sub-Categories have a return rate higher than 10%, and what is the total "Burned Profit" (Profit from orders that were eventually returned) for these items?
 
-<br>
+
 
 𝗧𝗮𝘀𝗸 𝟮. 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗠𝗮𝗿𝗴𝗶𝗻 𝗛𝗲𝗮𝗹𝘁𝗵
 
-✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  At what specific discount threshold (0%, 20%, 50%) does the Profit Margin consistently turn negative? We need to find the "Danger Zone" where sales are high but profits are non-existent.
+✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  At what specific discount threshold (0%, 20%, 50%) does the Profit Margin consistently turn negative? We need to find the "Danger Zone" where sales are high but profits are nonexistent.
 
-<br>
+
 
 𝗧𝗮𝘀𝗸 𝟯. 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝗼𝘁𝘁𝗹𝗲𝗻𝗲𝗰𝗸 𝗜𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻
 
 ✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Which Regional Manager has the highest Average Shipping Duration, and is there a correlation between long shipping times and high return rates?
 
-<br>
+
 
 𝗧𝗮𝘀𝗸 𝟰. 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗶𝗻𝗴
 
 ✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Who are the top 5% of customers in terms of Lifetime Value (LTV) who have a Return Rate of 0%?
 
-<br>
+
 
 𝗧𝗮𝘀𝗸 𝟱. 𝗜𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗥𝗶𝘀𝗸 𝗮𝗻𝗱 𝗢𝘃𝗲𝗿𝘀𝘁𝗼𝗰𝗸 𝗠𝗶𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻
 
 ✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Which products have high Quantity sold but fall into the bottom 10% of Total Profit? This identifies high-effort, low-reward inventory.
-<br>
+
 
 
 ---
 
 𝗞𝗘𝗬 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗠𝗘𝗧𝗥𝗜𝗖𝗦 
+
+<br>
 
 <img width="984" height="556" alt="image" src="https://github.com/user-attachments/assets/45be9116-4217-41f5-96e2-7ac376862154" />
 
@@ -53,9 +55,10 @@ The objective of this project is to conduct a thorough evaluation of Eastnat Lim
 
 𝗧𝗵𝗲 "𝗛𝗶𝗴𝗵 𝗩𝗼𝗹𝘂𝗺𝗲, 𝗟𝗼𝘄 𝗩𝗮𝗹𝘂𝗲" 𝗧𝗿𝗮𝗽
 
-While global sales are robust ($𝟮.𝟳𝗠 𝗮𝗴𝗮𝗶𝗻𝘀𝘁 𝗮 $𝟯.𝟭𝟮𝗠 𝘁𝗮𝗿𝗴𝗲𝘁), the growth is being undermined by "𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝘃𝗮𝗺𝗽𝗶𝗿𝗲𝘀". These are 𝗵𝗶𝗴𝗵-𝘃𝗼𝗹𝘂𝗺𝗲 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 (primarily in the 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 and 𝗧𝗮𝗯𝗹𝗲𝘀 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀) and are 𝘀𝗼𝗹𝗱 𝗯𝘆 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝘀𝗮𝗹𝗲𝘀 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝘃𝗲𝘀 who 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 but fall into 𝘁𝗵𝗲 𝗯𝗼𝘁𝘁𝗼𝗺 𝟭𝟬% 𝗶𝗻 𝗽𝗿𝗼𝗳𝗶𝘁. This is often driven by 𝗱𝗲𝗲𝗽 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀 (>𝟯𝟬%) that attract "𝗦𝗲𝗿𝗶𝗮𝗹 𝗥𝗲𝘁𝘂𝗿𝗻𝗲𝗿𝘀".
+While global sales are robust **($2.7M against a $3.12M target)**, the growth is being undermined by "𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝘃𝗮𝗺𝗽𝗶𝗿𝗲𝘀". These are 𝗵𝗶𝗴𝗵-𝘃𝗼𝗹𝘂𝗺𝗲 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 (primarily in the 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 and 𝗧𝗮𝗯𝗹𝗲𝘀 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀) and are 𝘀𝗼𝗹𝗱 𝗯𝘆 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝘀𝗮𝗹𝗲𝘀 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝘃𝗲𝘀 who 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 but fall into 𝘁𝗵𝗲 𝗯𝗼𝘁𝘁𝗼𝗺 𝟭𝟬% 𝗶𝗻 𝗽𝗿𝗼𝗳𝗶𝘁. This is often driven by 𝗱𝗲𝗲𝗽 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀 (>𝟯𝟬%) that attract "𝗦𝗲𝗿𝗶𝗮𝗹 𝗥𝗲𝘁𝘂𝗿𝗻𝗲𝗿𝘀".
 
 <br>
+
 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗜𝗺𝗽𝗮𝗰𝘁: 𝗣𝗿𝗼𝗳𝗶𝘁 𝗕𝗹𝗲𝗲𝗱
 
 - 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗖𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗶𝗼𝗻: 100% of the identified "Serial Returners" (𝘁𝗵𝗲 𝟭% 𝗼𝗳 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗹𝗲 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵𝗲𝘀𝘁 𝗿𝗲𝘁𝘂𝗿𝗻 𝘃𝗼𝗹𝘂𝗺𝗲) are in the 𝗪𝗲𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻.
@@ -63,7 +66,8 @@ While global sales are robust ($𝟮.𝟳𝗠 𝗮𝗴𝗮𝗶𝗻𝘀𝘁 𝗮 
 - 𝗠𝗮𝗿𝗴𝗶𝗻 𝗘𝗿𝗼𝘀𝗶𝗼𝗻: High-volume sales with thin margins (e.g., Storage) are at 𝗿𝗶𝘀𝗸 𝗼𝗳 𝗳𝗹𝗶𝗽𝗽𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗮 𝗻𝗲𝘁 𝗹𝗼𝘀𝘀 with a single return incident.
 
 <br>
-𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀
+
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
 
 - 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗚𝘂𝗮𝗿𝗱𝗿𝗮𝗶𝗹𝘀: Cap regional manager discounting at 𝟮𝟬% 𝗳𝗼𝗿 𝗵𝗶𝗴𝗵-𝗿𝗲𝘁𝘂𝗿𝗻 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀 (Machines/Tables) to 𝗱𝗶𝘀𝗰𝗼𝘂𝗿𝗮𝗴𝗲 "𝗯𝗿𝗮𝗰𝗸𝗲𝘁 𝘀𝗵𝗼𝗽𝗽𝗶𝗻𝗴" and 𝗹𝗼𝘄-𝗺𝗮𝗿𝗴𝗶𝗻 𝘃𝗼𝗹𝘂𝗺𝗲.
 - 𝗦𝗵𝗶𝗳𝘁 𝗞𝗣𝗜 𝗜𝗻𝗰𝗲𝗻𝘁𝗶𝘃𝗲𝘀: Transition sales performance metrics from "Total Revenue" to "𝗡𝗲𝘁 𝗣𝗿𝗼𝗳𝗶𝘁 𝗮𝗳𝘁𝗲𝗿 𝗥𝗲𝘁𝘂𝗿𝗻𝘀" to 𝗮𝗹𝗶𝗴𝗻 𝘀𝗮𝗹𝗲𝘀𝗽𝗲𝗿𝘀𝗼𝗻 𝗯𝗲𝗵𝗮𝘃𝗶𝗼𝗿 𝘄𝗶𝘁𝗵 𝗯𝗼𝘁𝘁𝗼𝗺-𝗹𝗶𝗻𝗲 𝗵𝗲𝗮𝗹𝘁𝗵.
@@ -71,83 +75,99 @@ While global sales are robust ($𝟮.𝟳𝗠 𝗮𝗴𝗮𝗶𝗻𝘀𝘁 𝗮 
 - 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗥𝗲𝗰𝗼𝘃𝗲𝗿𝘆: Aim for a 𝟭𝟱% 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝗿𝗲𝘁𝘂𝗿𝗻-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗹𝗼𝘀𝘀𝗲𝘀 to hit the "return impact target," which will 𝗿𝗲𝗰𝗹𝗮𝗶𝗺 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲 𝗰𝗮𝗽𝗶𝘁𝗮𝗹 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗿𝗲𝗾𝘂𝗶𝗿𝗶𝗻𝗴 𝗻𝗲𝘄 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗮𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻.
   
 ---
+𝗦𝗮𝗹𝗲𝘀 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻
+
+𝗧𝗵𝗲 𝗚𝗿𝗼𝘄𝘁𝗵 𝗚𝗮𝗽
+
+Every region is 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗯𝗲𝗹𝗼𝘄 𝗶𝘁𝘀 𝗮𝘀𝘀𝗶𝗴𝗻𝗲𝗱 𝗦𝗮𝗹𝗲𝘀 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗧𝗮𝗿𝗴𝗲𝘁. These targets represent the 𝟭𝟭𝟱% 𝘃𝗼𝗹𝘂𝗺𝗲 𝗿𝗲𝗾𝘂𝗶𝗿𝗲𝗱 𝘁𝗼 𝗺𝗲𝗲𝘁 𝗼𝘂𝗿 𝗴𝗹𝗼𝗯𝗮𝗹 $𝟯.𝟭𝟮𝗠 𝗴𝗼𝗮𝗹.
+- 𝗧𝗼𝗽 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗼𝗿: The 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻 leads with 𝟯𝟭.𝟰𝟭% 𝗼𝗳 𝘁𝗼𝘁𝗮𝗹 𝘀𝗮𝗹𝗲𝘀 but faces the 𝗹𝗮𝗿𝗴𝗲𝘀𝘁 𝗴𝗿𝗼𝘄𝘁𝗵 𝗱𝗲𝗳𝗶𝗰𝗶𝘁 (𝟰.𝟳𝟮% 𝗴𝗮𝗽 𝗳𝗿𝗼𝗺 𝗶𝘁𝘀 𝟯𝟲.𝟭𝟯% 𝘁𝗮𝗿𝗴𝗲𝘁).
+- 𝗦𝗲𝗰𝗼𝗻𝗱𝗮𝗿𝘆 𝗘𝗻𝗴𝗶𝗻𝗲: The 𝗘𝗮𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻 follows at 𝟮𝟵.𝟬𝟮% (𝟰.𝟯𝟱% 𝗴𝗮𝗽).
+- 𝗨𝗻𝗱𝗲𝗿𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗿𝘀: The 𝗖𝗲𝗻𝘁𝗿𝗮𝗹 𝗮𝗻𝗱 𝗦𝗼𝘂𝘁𝗵 𝗿𝗲𝗴𝗶𝗼𝗻𝘀 combined contribute less than the West alone, totaling 𝟯𝟵.𝟱𝟳% 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻.
+
+<br>
+
+𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁: 𝗛𝗶𝗴𝗵 𝗦𝘁𝗮𝗸𝗲𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁
+
+The global sales target of $𝟯.𝟭𝟮𝗠 𝗱𝗲𝗽𝗲𝗻𝗱𝘀 𝗼𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻 𝗿𝗲𝗮𝗰𝗵𝗶𝗻𝗴 𝗶𝘁𝘀 𝟯𝟲% 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝘁𝗮𝗿𝗴𝗲𝘁. However, since 100% of our "Serial Returners" are concentrated in the West, 𝗽𝘂𝘀𝗵𝗶𝗻𝗴 𝗳𝗼𝗿 𝗺𝗼𝗿𝗲 𝘃𝗼𝗹𝘂𝗺𝗲 𝘁𝗵𝗲𝗿𝗲 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗳𝗶𝘅𝗶𝗻𝗴 𝘁𝗵𝗲 𝗿𝗲𝘁𝘂𝗿𝗻 𝗶𝘀𝘀𝘂𝗲 𝘄𝗶𝗹𝗹 𝗹𝗶𝗸𝗲𝗹𝘆 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗩𝗮𝗺𝗽𝗶𝗿𝗲 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆 rather than healthy profit.
+
+<br>
+
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
+
+- 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗼𝘃𝗲𝗿 𝗤𝘂𝗮𝗻𝘁𝗶𝘁𝘆 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁: We should not attempt to 𝗰𝗹𝗼𝘀𝗲 𝘁𝗵𝗲 𝟰.𝟳𝟮% 𝗴𝗮𝗽 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗱𝗲𝗲𝗽 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝗶𝗻𝗴. This will only attract more "Serial Returners." 𝗪𝗲 𝘀𝗵𝗼𝘂𝗹𝗱 𝗳𝗼𝗰𝘂𝘀 𝗼𝗻 𝗺𝗮𝗿𝗴𝗶𝗻 𝗿𝗲𝗰𝗼𝘃𝗲𝗿𝘆 𝗳𝗶𝗿𝘀𝘁.
+- 𝗔𝗴𝗴𝗿𝗲𝘀𝘀𝗶𝘃𝗲 𝗘𝘅𝗽𝗮𝗻𝘀𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝗘𝗮𝘀𝘁: Prioritize 𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝘀𝗮𝗹𝗲𝘀 𝗶𝗻𝗰𝗲𝗻𝘁𝗶𝘃𝗲𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗘𝗮𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻. It is a high-volume contributor (𝟮𝟵%) without the severe return profile of the West, making it 𝘁𝗵𝗲 𝘀𝗮𝗳𝗲𝘀𝘁 𝗽𝗮𝘁𝗵 𝘁𝗼 𝗰𝗹𝗼𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗴𝗹𝗼𝗯𝗮𝗹 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗴𝗮𝗽.
+- 𝗧𝗮𝗿𝗴𝗲𝘁 𝗔𝗹𝗶𝗴𝗻𝗺𝗲𝗻𝘁: Update 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 𝗞𝗣𝗜𝘀 𝘁𝗼 𝗿𝗲𝗳𝗹𝗲𝗰𝘁 𝘁𝗵𝗲𝘀𝗲 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝗦𝗮𝗹𝗲𝘀 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗧𝗮𝗿𝗴𝗲𝘁𝘀 rather than historical performance, ensuring all regions are pulling toward the 𝟭𝟱% 𝗴𝗿𝗼𝘄𝘁𝗵 𝗼𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲.
 
 
        
 ---
+𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗟𝗶𝗳𝗲𝘁𝗶𝗺𝗲 𝗩𝗮𝗹𝘂𝗲 (𝗟𝗧𝗩)
 
+𝗨𝗻𝗶𝗳𝗼𝗿𝗺 𝗨𝗻𝗱𝗲𝗿𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲
 
+All regions are currently 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗮𝘁 𝗮𝗽𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝘁𝗲𝗹𝘆 𝟴𝟳% 𝗼𝗳 𝘁𝗵𝗲𝗶𝗿 𝗲𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗟𝗧𝗩 𝘁𝗮𝗿𝗴𝗲𝘁𝘀. While the 𝗪𝗲𝘀𝘁 region 𝗯𝗼𝗮𝘀𝘁𝘀 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵𝗲𝘀𝘁 𝗮𝗯𝘀𝗼𝗹𝘂𝘁𝗲 𝘃𝗮𝗹𝘂𝗲 ($𝟭𝟴𝟳.𝟮𝟳), it also c𝗮𝗿𝗿𝗶𝗲𝘀 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝘀𝘁 𝗻𝗼𝗺𝗶𝗻𝗮𝗹 𝗴𝗮𝗽 ($𝟮𝟴.𝟭𝟬) compared to its target.
+- 𝗛𝗶𝗴𝗵𝗲𝘀𝘁 𝗩𝗮𝗹𝘂𝗲: West ($187.27)
+- 𝗟𝗼𝘄𝗲𝘀𝘁 𝗩𝗮𝗹𝘂𝗲: Central ($63.98)
+- 𝗧𝗮𝗿𝗴𝗲𝘁 𝗚𝗮𝗽: A consistent 13% deficit across the board.
 
 <br>
- ---  
 
- **Exploratory Data Analysis**
- 
-Calculated KPIs:
-	<img width="1350" height="489" alt="image" src="https://github.com/user-attachments/assets/e4bd2da2-7455-4b59-b8c3-1f71de242828" />
+𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁: 𝗧𝗵𝗲 𝗥𝗲𝘁𝗲𝗻𝘁𝗶𝗼𝗻-𝗥𝗲𝘁𝘂𝗿𝗻 𝗧𝗲𝗻𝘀𝗶𝗼𝗻
 
-**Key Insights:**
-- There are a total of **793 customers**, with an average of **7.42 orders per customer (OPC)**.
-- The **Average Order Value (AOV) is $1,865**, driven by a significant number of units sold per transaction, averaging 30 units.
-- The average **discount percentage is 15.58%**, indicating that the business relies heavily on discounts to stimulate sales.
-- The business maintains a **profit margin of 12%**, which is commendable given the high discount rate.
-- The difference between the **average selling price** and **average cost per unit is $7.85**. With a discount of 15.58% on the average price, this amounts to $9.75.
-- The business is effectively "giving away" more in discounts ($9.75) than it retains as gross profit per unit ($7.85). 
+The 𝗱𝗲𝗽𝗿𝗲𝘀𝘀𝗲𝗱 𝗟𝗧𝗩 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 is particularly concerning because 𝘁𝗵𝗶𝘀 𝗿𝗲𝗴𝗶𝗼𝗻 𝗵𝗮𝗻𝗱𝗹𝗲𝘀 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵𝗲𝘀𝘁 𝘀𝗮𝗹𝗲𝘀 𝘃𝗼𝗹𝘂𝗺𝗲. The existence of "Serial Returners" in the West (as identified in the return analysis) is likely 𝗰𝗮𝗽𝗽𝗶𝗻𝗴 𝗟𝗧𝗩 𝗯𝘆 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 "𝗰𝗼𝘀𝘁 𝘁𝗼 𝘀𝗲𝗿𝘃𝗲" and 𝗿𝗲𝘃𝗲𝗿𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗼𝗳 𝗿𝗲𝗽𝗲𝗮𝘁 𝗽𝘂𝗿𝗰𝗵𝗮𝘀𝗲𝘀. High volume without a corresponding increase in LTV indicates that 𝘄𝗲 𝗮𝗿𝗲 𝗮𝗰𝗾𝘂𝗶𝗿𝗶𝗻𝗴 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 𝘄𝗵𝗼 𝗱𝗼 𝗻𝗼𝘁 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝘀𝘂𝘀𝘁𝗮𝗶𝗻𝗮𝗯𝗹𝗲, 𝗹𝗼𝗻𝗴-𝘁𝗲𝗿𝗺 𝗽𝗿𝗼𝗳𝗶𝘁.
 
-**Recommendations:**
+<br>
 
-Based on the KPI analysis, the business should consider the following:
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
 
-1. **Protecting and Nurturing the Customer Base**: The business should initiate initiatives to improve customer retention, such as loyalty programs, exclusive offers, and exceptional service. These strategies will yield a much higher return than focusing solely on acquiring new customers with similar lifetime values.
+- 𝗡𝗲𝘂𝘁𝗿𝗮𝗹𝗶𝘇𝗲 𝘁𝗵𝗲 "𝗩𝗮𝗺𝗽𝗶𝗿𝗲𝘀": Focus on the West and East regions to 𝗰𝗹𝗼𝘀𝗲 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝘀𝘁 𝗱𝗼𝗹𝗹𝗮𝗿 𝗴𝗮𝗽𝘀 ($𝟮𝟴.𝟭𝟬 𝗮𝗻𝗱 $𝟮𝟰.𝟭𝟯, 𝗿𝗲𝘀𝗽𝗲𝗰𝘁𝗶𝘃𝗲𝗹𝘆). This should be done by 𝗽𝗿𝗶𝗼𝗿𝗶𝘁𝗶𝘇𝗶𝗻𝗴 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀 𝗹𝗶𝗸𝗲 𝗖𝗼𝗽𝗶𝗲𝗿𝘀 and 𝗔𝗰𝗰𝗲𝘀𝘀𝗼𝗿𝗶𝗲𝘀 𝘄𝗵𝗶𝗰𝗵 𝗻𝗮𝘁𝘂𝗿𝗮𝗹𝗹𝘆 𝗱𝗿𝗶𝘃𝗲 𝗵𝗶𝗴𝗵𝗲𝗿 𝗟𝗧𝗩.
+- 𝗥𝗲𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗼𝘃𝗲𝗿 𝗔𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻: Since all regions are missing targets by the same percentage, 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝗮 𝗴𝗹𝗼𝗯𝗮𝗹 𝗹𝗼𝘆𝗮𝗹𝘁𝘆 𝗽𝗿𝗼𝗴𝗿𝗮𝗺 specifically targeting the Corporate and Home Office segments 𝘁𝗼 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲 𝗽𝘂𝗿𝗰𝗵𝗮𝘀𝗲 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝗰𝘆.
+- 𝗥𝗲𝘁𝘂𝗿𝗻 𝗠𝗶𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻: In the West, 𝗹𝗼𝘄𝗲𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝗯𝘆 𝘁𝗵𝗲 𝘁𝗮𝗿𝗴𝗲𝘁𝗲𝗱 𝟭𝟱% will automatically uplift LTV by 𝗿𝗲𝘁𝗮𝗶𝗻𝗶𝗻𝗴 𝗺𝗼𝗿𝗲 𝗺𝗼𝗻𝗲𝘁𝗮𝗿𝘆 𝘃𝗮𝗹𝘂𝗲 𝗽𝗲𝗿 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿.
 
-2. **Analyse the Discount Strategy**: The business should use discounts strategically to attract new customers or clear out slow-selling inventory, rather than applying them as a blanket policy or for merely retaining loyal customers. Additionally, it may be beneficial to reduce the discount percentage, for example to 14%, to evaluate its impact on profits or sales volume.
+---  
+𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗢𝗿𝗱𝗲𝗿 𝗩𝗮𝗹𝘂𝗲 (𝗔𝗢𝗩)
 
-3. **Increase Customer Lifetime Value (LTV)**: Since customers tend to make frequent purchases, the business can encourage them to add one more item to each order through upselling or cross-selling strategies. It might also consider introducing a new, higher-margin product to the lineup.
+𝗨𝗻𝗶𝗳𝗼𝗿𝗺 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗗𝗲𝗳𝗶𝗰𝗶𝘁
+
+Across all regions, there is 𝗮 𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁 𝟭𝟯% 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹 𝗿𝗲𝗹𝗮𝘁𝗶𝘃𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗲𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗔𝗢𝗩 𝘁𝗮𝗿𝗴𝗲𝘁𝘀. While the absolute dollar values vary, every region is currently operating at 𝗮𝗽𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝘁𝗲𝗹𝘆 𝟴𝟳% 𝗼𝗳 𝗶𝘁𝘀 𝘁𝗮𝗿𝗴𝗲𝘁 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆.
+- 𝗧𝗼𝗽 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗿: The South region leads with 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵𝗲𝘀𝘁 𝗔𝗢𝗩 ($𝟱𝟬𝟭.𝟯𝟳), yet faces 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝘀𝘁 𝗻𝗼𝗺𝗶𝗻𝗮𝗹 𝗴𝗮𝗽 ($𝟳𝟱.𝟮𝟭).
+- 𝗕𝗼𝘁𝘁𝗼𝗺 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗿: The Central region has 𝘁𝗵𝗲 𝗹𝗼𝘄𝗲𝘀𝘁 𝗔𝗢𝗩 ($𝟰𝟯𝟬.𝟲𝟲), falling $𝟲𝟰.𝟲𝟬 𝘀𝗵𝗼𝗿𝘁 𝗼𝗳 𝗶𝘁𝘀 𝘁𝗮𝗿𝗴𝗲𝘁.
+- 𝗧𝗵𝗲 𝗪𝗲𝘀𝘁 𝗣𝗮𝗿𝗮𝗱𝗼𝘅: Despite being 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵𝗲𝘀𝘁 𝘃𝗼𝗹𝘂𝗺𝗲 𝗿𝗲𝗴𝗶𝗼𝗻, the 𝗪𝗲𝘀𝘁’𝘀 𝗔𝗢𝗩 ($𝟰𝟱𝟯.𝟴𝟳$) 𝗿𝗲𝗺𝗮𝗶𝗻𝘀 𝘀𝘁𝗮𝗴𝗻𝗮𝗻𝘁, indicating that 𝗵𝗶𝗴𝗵 𝘀𝗮𝗹𝗲𝘀 𝘃𝗼𝗹𝘂𝗺𝗲 𝗶𝘀 𝗻𝗼𝘁 𝘁𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗵𝗶𝗴𝗵𝗲𝗿-𝘃𝗮𝗹𝘂𝗲 𝗶𝗻𝗱𝗶𝘃𝗶𝗱𝘂𝗮𝗹 𝘁𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀.
+
+<br>
+
+𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁: 𝗧𝗵𝗲 "𝗕𝗿𝗮𝗰𝗸𝗲𝘁 𝗦𝗵𝗼𝗽𝗽𝗶𝗻𝗴" 𝗥𝗶𝘀𝗸
+
+The 𝘀𝘁𝗮𝗹𝗹𝗲𝗱 𝗔𝗢𝗩 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻 is particularly 𝗰𝗼𝗻𝗰𝗲𝗿𝗻𝗶𝗻𝗴 𝘄𝗵𝗲𝗻 𝗽𝗮𝗶𝗿𝗲𝗱 𝘄𝗶𝘁𝗵 𝗼𝘂𝗿 "𝗦𝗲𝗿𝗶𝗮𝗹 𝗥𝗲𝘁𝘂𝗿𝗻𝗲𝗿" 𝗳𝗶𝗻𝗱𝗶𝗻𝗴𝘀.
+- 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝘃𝘀. 𝗩𝗼𝗹𝘂𝗺𝗲: A mid-range AOV in a high-volume region 𝘀𝘂𝗴𝗴𝗲𝘀𝘁𝘀 𝘁𝗵𝗮𝘁 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 𝗮𝗿𝗲 𝗽𝗹𝗮𝗰𝗶𝗻𝗴 𝗺𝗮𝗻𝘆 𝘀𝗺𝗮𝗹𝗹𝗲𝗿 𝗼𝗿𝗱𝗲𝗿𝘀 or, more dangerously, 𝗲𝗻𝗴𝗮𝗴𝗶𝗻𝗴 𝗶𝗻 "𝗯𝗿𝗮𝗰𝗸𝗲𝘁 𝘀𝗵𝗼𝗽𝗽𝗶𝗻𝗴" - 𝘱𝘶𝘳𝘤𝘩𝘢𝘴𝘪𝘯𝘨 𝘮𝘶𝘭𝘵𝘪𝘱𝘭𝘦 𝘪𝘵𝘦𝘮𝘴 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘪𝘯𝘵𝘦𝘯𝘵 𝘵𝘰 𝘳𝘦𝘵𝘶𝘳𝘯 𝘮𝘰𝘴𝘵.
+- 𝗠𝗮𝗿𝗴𝗶𝗻 𝗘𝗿𝗼𝘀𝗶𝗼𝗻: Because AOV is below target, 𝘁𝗵𝗲 𝗳𝗶𝘅𝗲𝗱 𝗰𝗼𝘀𝘁 𝗼𝗳 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗮𝗻𝗱 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗲𝗮𝗰𝗵 𝗼𝗿𝗱𝗲𝗿 𝗶𝘀 𝗲𝗮𝘁𝗶𝗻𝗴 𝗮 𝗹𝗮𝗿𝗴𝗲𝗿 𝗽𝗲𝗿𝗰𝗲𝗻𝘁𝗮𝗴𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗴𝗿𝗼𝘀𝘀 𝗺𝗮𝗿𝗴𝗶𝗻, especially for high-volume "Operational Vampires" (Machines/Tables).
+
+<br>
+
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
+
+- 𝗜𝗻𝗰𝗲𝗻𝘁𝗶𝘃𝗶𝘇𝗲 "𝗛𝗲𝗮𝗹𝘁𝗵𝘆" 𝗕𝘂𝗻𝗱𝗹𝗶𝗻𝗴: Implement "𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝘁𝗵𝗲 𝗹𝗼𝗼𝗸" or "𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝘁𝗹𝘆 𝗯𝗼𝘂𝗴𝗵𝘁 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿" 𝗽𝗿𝗼𝗺𝗽𝘁𝘀 𝗳𝗼𝗿 𝗵𝗶𝗴𝗵-𝗺𝗮𝗿𝗴𝗶𝗻 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀 like 𝗔𝗰𝗰𝗲𝘀𝘀𝗼𝗿𝗶𝗲𝘀 and 𝗖𝗼𝗽𝗶𝗲𝗿𝘀 to drive AOV 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗮𝘁𝘁𝗿𝗮𝗰𝘁𝗶𝗻𝗴 𝘀𝗲𝗿𝗶𝗮𝗹 𝗿𝗲𝘁𝘂𝗿𝗻𝗲𝗿𝘀.
+- 𝗧𝗵𝗿𝗲𝘀𝗵𝗼𝗹𝗱-𝗕𝗮𝘀𝗲𝗱 𝗦𝗵𝗶𝗽𝗽𝗶𝗻𝗴: Review the 𝗳𝗿𝗲𝗲 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝘁𝗵𝗿𝗲𝘀𝗵𝗼𝗹𝗱. Increasing 𝘁𝗵𝗲 𝗺𝗶𝗻𝗶𝗺𝘂𝗺 𝗼𝗿𝗱𝗲𝗿 𝘃𝗮𝗹𝘂𝗲 (𝗠𝗢𝗤) 𝗳𝗼𝗿 𝗳𝗿𝗲𝗲 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 can organically lift AOV by e𝗻𝗰𝗼𝘂𝗿𝗮𝗴𝗶𝗻𝗴 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 𝘁𝗼 𝗮𝗱𝗱 𝗼𝗻𝗲 𝗺𝗼𝗿𝗲 𝗶𝘁𝗲𝗺 𝘁𝗼 𝘁𝗵𝗲𝗶𝗿 𝗰𝗮𝗿𝘁.
+- 𝗧𝗮𝗿𝗴𝗲𝘁 𝘁𝗵𝗲 𝗦𝗼𝘂𝘁𝗵 𝗳𝗼𝗿 𝗚𝗿𝗼𝘄𝘁𝗵: Since the South already has the highest natural AOV, 𝗽𝗿𝗶𝗼𝗿𝗶𝘁𝗶𝘇𝗲 𝗶𝘁 𝗳𝗼𝗿 "𝗣𝗿𝗲𝗺𝗶𝘂𝗺" 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗰𝗮𝗺𝗽𝗮𝗶𝗴𝗻𝘀. Closing 𝘁𝗵𝗲 $𝟳𝟱 𝗴𝗮𝗽 will have the most significant impact on the bottom line.
+- 𝗠𝗼𝗻𝗶𝘁𝗼𝗿 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗳𝗼𝗿 "𝗩𝗮𝗺𝗽𝗶𝗿𝗲" 𝗢𝗿𝗱𝗲𝗿𝘀: Flag 𝗵𝗶𝗴𝗵-𝘃𝗮𝗹𝘂𝗲 𝗼𝗿𝗱𝗲𝗿𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝘁𝗵𝗮𝘁 𝗰𝗼𝗻𝘀𝗶𝘀𝘁 𝗽𝘂𝗿𝗲𝗹𝘆 𝗼𝗳 𝗵𝗶𝗴𝗵-𝗿𝗲𝘁𝘂𝗿𝗻 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀. These inflated AOVs are often "false positives" that 𝗿𝗲𝘀𝘂𝗹𝘁 𝗶𝗻 𝗮 𝗻𝗲𝘁 𝗹𝗼𝘀𝘀 𝗮𝗳𝘁𝗲𝗿 𝘁𝗵𝗲 𝗿𝗲𝘁𝘂𝗿𝗻 𝗶𝘀 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝗱.
+
 
 ---
+𝗥𝗘𝗧𝗨𝗥𝗡 𝗜𝗠𝗣𝗔𝗖𝗧 
 
-## Profitability & Loss Analysis
+𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲: Identify sub-categories with 𝗮 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝗲𝘅𝗰𝗲𝗲𝗱𝗶𝗻𝗴 𝟭𝟬% and 𝗾𝘂𝗮𝗻𝘁𝗶𝗳𝘆 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 𝗽𝗿𝗼𝗳𝗶𝘁 𝗹𝗼𝘀𝘁 𝗱𝘂𝗲 𝘁𝗼 𝘁𝗵𝗼𝘀𝗲 𝗿𝗲𝘁𝘂𝗿𝗻𝘀. This allows management to investigate whether the issues are related to product quality, shipping damage, or inaccurate online descriptions.
 
-**Which product categories, sub-categories, or specific products are the most and least profitable?**
+<br>
 
--- Profitability by category (ranked from the most to the least profitable):
-
-<img width="1202" height="452" alt="image" src="https://github.com/user-attachments/assets/44ad94de-2029-4622-87c2-5f0cdba69044" />
+<img width="981" height="556" alt="image" src="https://github.com/user-attachments/assets/c27221c1-9d18-4b86-a049-aead6e051e2e" />
 
   
 
--- Profitability by sub-categories
-
-<img width="1202" height="622" alt="image" src="https://github.com/user-attachments/assets/29b2bde1-ea22-4e20-86b7-2795aecb6ba4" />
-
-
-
--- Top 10 most profitable specific products
-
-<img width="1202" height="632" alt="image" src="https://github.com/user-attachments/assets/eb83ca8b-46e9-411f-901e-ac8b7a93a2f9" />
-
-
--- Top 10 least profitable products 
-
-<img width="1202" height="555" alt="image" src="https://github.com/user-attachments/assets/676a6e6f-d7a3-436f-ac37-11101e17134a" />
 
 
 ---
 
-**What factors correlate with a product or an order generating a loss (negative profit)?**
-        
-<img width="975" height="695" alt="image" src="https://github.com/user-attachments/assets/d4d42373-3e5a-419f-ab2f-151ba2aa95fa" />
 
-
-**Key Insight:** 
-
-- There is **a strong positive correlation between discount and is_loss** (r = 0.753921). This suggests that a higher discount is significantly associated with a higher likelihood of a transaction resulting in a loss. In other words, larger discounts directly reduce profit margins.
-- There is **a weak positive correlation between the dollar amount of the discount and is_loss** (r = 0.169223). This suggests that a higher absolute dollar discount also correlates with losses. Larger discount amounts (in dollars) increase the risk of incurring losses.
-- The **correlation between total cost and is_loss is very weak** (r = 0.118892). The cost of an item has little to no direct linear relationship with whether a transaction results in a loss. Other factors, such as sales price and discount, play a more significant role.
-- Unit price, sales, processing days, and quantity show **no significant linear relationship with the occurrence of a loss**. All of these variables have correlations very close to zero, ranging from -0.002504 to 0.025537.
-- Profit margin (r = -0.765811) has **a strong negative correlation**. As the profit margin decreases, the likelihood of a loss increases. A low profit margin directly leads to a loss, while higher profit margins strongly protect against losses.
-- Net profit margin (r = -0.591829) exhibits **a moderately strong negative correlation**. Similar to profit margin, a lower net profit margin is associated with a greater chance of incurring a loss.
-- There is **a weak negative relationship between profit and is_loss** (r = -0.234539). As profit decreases, the likelihood of a loss tends to increase.
 
 ---
 
