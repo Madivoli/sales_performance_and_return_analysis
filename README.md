@@ -1,75 +1,84 @@
 𝗘𝗔𝗦𝗧𝗡𝗔𝗧 𝗟𝗜𝗠𝗜𝗧𝗘𝗗: 𝗦𝗔𝗟𝗘𝗦 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗔𝗡𝗗 𝗥𝗘𝗧𝗨𝗥𝗡𝗦 𝗥𝗘𝗖𝗢𝗩𝗘𝗥𝗬 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
-
+---
 ![hanson-lu-sq5P00L7lXc-unsplash](https://github.com/user-attachments/assets/74fc54bb-9619-4bf2-98d0-559ff9517e1b)
 
-
-Introduction
-
-The objective of this 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 is to conduct a thorough evaluation of Eastnat Limited’s sales and profitability data, covering the years 2016 to 2021, to uncover key business insights. This analysis goes beyond simple top-line revenue to investigate the underlying factors that erode margins, with a specific focus on geographic profit pockets and the impact of shipping costs on regional performance. By integrating multi-year sales data with return and representative records, the project aims to establish a "source of truth" for identifying operational inefficiencies and scaling the business through data-driven decisions.
-
----
-## Objectives and Business Questions
-
-To analyse 4 key areas and answer the following business questions:
-
-**1. Profitability & Loss Analysis:**
-
-    • Which product categories, sub-categories, or specific products are the most and least profitable? 
-	• What are the key factors that correlate with a product or order generating a loss (negative profit)? 
-    • Are the loss-making products concentrated in certain categories that might be used to attract customers? 
-	• Is there a relationship between discount levels and profitability? At what discount level do products typically become unprofitable? 
-    
-**2. Customer Segmentation and Sales Analysis:**
-
-    • Who are our most valuable customers? Can we segment them by sales, profit, or region?
-    • What patterns distinguish high-value customers from others? 
-	• How do sales fluctuate over time, and are there seasonal peaks?
-    • Is there a relationship between the quantity of items purchased, the discount offered, and the total sales value? 
-    
-**3. Product and Inventory Management:**
-
-    • Can we segment products into groups to tailor marketing and inventory strategies? 
-    • How do sales and profit performance vary by category and sub-category?
-    • What is the typical sales amount and profit margin based on category and region? 
-    
-**4. Returns Analysis:**
-
-    • Why are products being returned? What patterns distinguish returned orders from kept orders? 
-    • Can we predict the probability of an order being returned based on factors like discount, product category, and profit? 
-
 ---
 
-## Methods
+𝗜𝗡𝗧𝗥𝗢𝗗𝗨𝗖𝗧𝗜𝗢𝗡
 
-    1. Descriptive Analytics: Summarising key metrics (total sales, average profit, overall profit margin, return rate, quantity sold by category). 
-    2. Correlation Analysis: Identifying relationships between variables (e.g., discount vs. profit, sales vs. quantity, profit vs. probability of return).
-    3. Predictive Modelling: Using historical data to predict future outcomes (e.g., Logistic Regression to predict if an order will be returned based on discount, category, or profit).
-    4. Clustering: Using algorithms like K-Means to segment customers into distinct groups based on their total sales, profit generated, and frequency of orders.
+The objective of this project is to conduct a thorough evaluation of Eastnat Limited’s sales and profitability data, covering the years 2016 to 2021, to uncover key business insights. This analysis goes beyond simple top-line revenue to 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗲 𝘁𝗵𝗲 𝘂𝗻𝗱𝗲𝗿𝗹𝘆𝗶𝗻𝗴 𝗳𝗮𝗰𝘁𝗼𝗿𝘀 𝘁𝗵𝗮𝘁 𝗲𝗿𝗼𝗱𝗲 𝗺𝗮𝗿𝗴𝗶𝗻𝘀, with a specific focus on geographic profit pockets and 𝘁𝗵𝗲 𝗶𝗺𝗽𝗮𝗰𝘁 𝗼𝗳 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗰𝗼𝘀𝘁𝘀 𝗼𝗻 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲. By integrating multi-year sales data with return and representative records, 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗮𝗶𝗺𝘀 𝘁𝗼 𝗲𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵 𝗮 "𝘀𝗼𝘂𝗿𝗰𝗲 𝗼𝗳 𝘁𝗿𝘂𝘁𝗵" 𝗳𝗼𝗿 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝘆𝗶𝗻𝗴 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝗻𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝗶𝗲𝘀 𝗮𝗻𝗱 𝘀𝗰𝗮𝗹𝗶𝗻𝗴 𝘁𝗵𝗲 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀.
+
+
+---
+𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧 𝗧𝗔𝗦𝗞 
+
+𝗧𝗮𝘀𝗸 𝟭. 𝗥𝗲𝘁𝘂𝗿𝗻 𝗜𝗺𝗽𝗮𝗰𝘁
+
+✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻: Which Sub-Categories have a return rate higher than 10%, and what is the total "Burned Profit" (Profit from orders that were eventually returned) for these items?
+
+<br>
+
+𝗧𝗮𝘀𝗸 𝟮. 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗠𝗮𝗿𝗴𝗶𝗻 𝗛𝗲𝗮𝗹𝘁𝗵
+
+✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  At what specific discount threshold (0%, 20%, 50%) does the Profit Margin consistently turn negative? We need to find the "Danger Zone" where sales are high but profits are non-existent.
+
+<br>
+
+𝗧𝗮𝘀𝗸 𝟯. 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝗼𝘁𝘁𝗹𝗲𝗻𝗲𝗰𝗸 𝗜𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+
+✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Which Regional Manager has the highest Average Shipping Duration, and is there a correlation between long shipping times and high return rates?
+
+<br>
+
+𝗧𝗮𝘀𝗸 𝟰. 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗶𝗻𝗴
+
+✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Who are the top 5% of customers in terms of Lifetime Value (LTV) who have a Return Rate of 0%?
+
+<br>
+
+𝗧𝗮𝘀𝗸 𝟱. 𝗜𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗥𝗶𝘀𝗸 𝗮𝗻𝗱 𝗢𝘃𝗲𝗿𝘀𝘁𝗼𝗰𝗸 𝗠𝗶𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻
+
+✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Which products have high Quantity sold but fall into the bottom 10% of Total Profit? This identifies high-effort, low-reward inventory.
+<br>
+
 
 ---
 
-## Tools 
+𝗞𝗘𝗬 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗠𝗘𝗧𝗥𝗜𝗖𝗦 
 
-	• Excel: Initial data exploration and visualisation.
-	• MySQL: To query the database and prepare specific datasets for deeper analysis.
-	• Python (Pandas, Scikit-learn, Seaborn, Matplotlib): The primary tool for data cleaning, processing, manipulation and deep analysis.
-	• Tableau: To build an interactive Superstore Performance Dashboard for management.
+<img width="984" height="556" alt="image" src="https://github.com/user-attachments/assets/45be9116-4217-41f5-96e2-7ac376862154" />
+
+---
+𝗚𝗹𝗼𝗯𝗮𝗹 𝗦𝗮𝗹𝗲𝘀
+
+𝗧𝗵𝗲 "𝗛𝗶𝗴𝗵 𝗩𝗼𝗹𝘂𝗺𝗲, 𝗟𝗼𝘄 𝗩𝗮𝗹𝘂𝗲" 𝗧𝗿𝗮𝗽
+
+While global sales are robust ($𝟮.𝟳𝗠 𝗮𝗴𝗮𝗶𝗻𝘀𝘁 𝗮 $𝟯.𝟭𝟮𝗠 𝘁𝗮𝗿𝗴𝗲𝘁), the growth is being undermined by "𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝘃𝗮𝗺𝗽𝗶𝗿𝗲𝘀". These are 𝗵𝗶𝗴𝗵-𝘃𝗼𝗹𝘂𝗺𝗲 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 (primarily in the 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 and 𝗧𝗮𝗯𝗹𝗲𝘀 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀) and are 𝘀𝗼𝗹𝗱 𝗯𝘆 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝘀𝗮𝗹𝗲𝘀 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝘃𝗲𝘀 who 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 but fall into 𝘁𝗵𝗲 𝗯𝗼𝘁𝘁𝗼𝗺 𝟭𝟬% 𝗶𝗻 𝗽𝗿𝗼𝗳𝗶𝘁. This is often driven by 𝗱𝗲𝗲𝗽 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀 (>𝟯𝟬%) that attract "𝗦𝗲𝗿𝗶𝗮𝗹 𝗥𝗲𝘁𝘂𝗿𝗻𝗲𝗿𝘀".
+
+<br>
+𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗜𝗺𝗽𝗮𝗰𝘁: 𝗣𝗿𝗼𝗳𝗶𝘁 𝗕𝗹𝗲𝗲𝗱
+
+- 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗖𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗶𝗼𝗻: 100% of the identified "Serial Returners" (𝘁𝗵𝗲 𝟭% 𝗼𝗳 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗹𝗲 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵𝗲𝘀𝘁 𝗿𝗲𝘁𝘂𝗿𝗻 𝘃𝗼𝗹𝘂𝗺𝗲) are in the 𝗪𝗲𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻.
+- 𝗥𝗲𝗰𝗼𝘃𝗲𝗿𝗮𝗯𝗹𝗲 𝗣𝗿𝗼𝗳𝗶𝘁: By neutralizing the 𝘁𝗼𝗽 𝟭𝟬 "𝗩𝗮𝗺𝗽𝗶𝗿𝗲" 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 in the West Region alone, there is a projected 𝟭𝟱–𝟮𝟬% 𝗿𝗲𝗰𝗼𝘃𝗲𝗿𝘆 𝗶𝗻 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗻𝗲𝘁 𝗽𝗿𝗼𝗳𝗶𝘁.
+- 𝗠𝗮𝗿𝗴𝗶𝗻 𝗘𝗿𝗼𝘀𝗶𝗼𝗻: High-volume sales with thin margins (e.g., Storage) are at 𝗿𝗶𝘀𝗸 𝗼𝗳 𝗳𝗹𝗶𝗽𝗽𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗮 𝗻𝗲𝘁 𝗹𝗼𝘀𝘀 with a single return incident.
+
+<br>
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀
+
+- 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗚𝘂𝗮𝗿𝗱𝗿𝗮𝗶𝗹𝘀: Cap regional manager discounting at 𝟮𝟬% 𝗳𝗼𝗿 𝗵𝗶𝗴𝗵-𝗿𝗲𝘁𝘂𝗿𝗻 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀 (Machines/Tables) to 𝗱𝗶𝘀𝗰𝗼𝘂𝗿𝗮𝗴𝗲 "𝗯𝗿𝗮𝗰𝗸𝗲𝘁 𝘀𝗵𝗼𝗽𝗽𝗶𝗻𝗴" and 𝗹𝗼𝘄-𝗺𝗮𝗿𝗴𝗶𝗻 𝘃𝗼𝗹𝘂𝗺𝗲.
+- 𝗦𝗵𝗶𝗳𝘁 𝗞𝗣𝗜 𝗜𝗻𝗰𝗲𝗻𝘁𝗶𝘃𝗲𝘀: Transition sales performance metrics from "Total Revenue" to "𝗡𝗲𝘁 𝗣𝗿𝗼𝗳𝗶𝘁 𝗮𝗳𝘁𝗲𝗿 𝗥𝗲𝘁𝘂𝗿𝗻𝘀" to 𝗮𝗹𝗶𝗴𝗻 𝘀𝗮𝗹𝗲𝘀𝗽𝗲𝗿𝘀𝗼𝗻 𝗯𝗲𝗵𝗮𝘃𝗶𝗼𝗿 𝘄𝗶𝘁𝗵 𝗯𝗼𝘁𝘁𝗼𝗺-𝗹𝗶𝗻𝗲 𝗵𝗲𝗮𝗹𝘁𝗵.
+- 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗣𝗼𝗹𝗶𝗰𝘆 𝗔𝘂𝗱𝗶𝘁: Conduct a targeted review of the 𝗪𝗲𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻’𝘀 𝗿𝗲𝘁𝘂𝗿𝗻 𝗽𝗼𝗹𝗶𝗰𝗶𝗲𝘀 and 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗽𝗮𝗿𝘁𝗻𝗲𝗿𝘀 to 𝗮𝗱𝗱𝗿𝗲𝘀𝘀 𝘄𝗵𝘆 𝟭𝟬𝟬% 𝗼𝗳 𝘀𝗲𝗿𝗶𝗮𝗹 𝗿𝗲𝘁𝘂𝗿𝗻𝘀 𝗮𝗿𝗲 𝗰𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗲𝗱 𝘁𝗵𝗲𝗿𝗲.
+- 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗥𝗲𝗰𝗼𝘃𝗲𝗿𝘆: Aim for a 𝟭𝟱% 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝗿𝗲𝘁𝘂𝗿𝗻-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗹𝗼𝘀𝘀𝗲𝘀 to hit the "return impact target," which will 𝗿𝗲𝗰𝗹𝗮𝗶𝗺 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲 𝗰𝗮𝗽𝗶𝘁𝗮𝗹 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗿𝗲𝗾𝘂𝗶𝗿𝗶𝗻𝗴 𝗻𝗲𝘄 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗮𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻.
+  
+---
+
+
        
 ---
 
-## Procedures
 
-**Data Processing, Cleaning and Manipulation**
 
-1. **Join and save file**: Joined and saved multiple Excel files (2016 - 2020 Orders) into a combined CSV file.
-2. **Rename columns**: Renamed columns in the CSV file.
-3.  **Fix data types**: Converted order_date and ship_date to datetime objects for accurate analysis.
-4. **Handle missing data**: Checked and removed null values in the returned column.
-5. **Remove duplicates**: Checked and removed duplicate rows.
-6. **Reset the table's index column**:To ensure that the index is sequential without any gaps from the removed row.
-7. **Add new calculated columns:** Calculated profit margin, unit price, total cost, discount amount, net sales, net profit margin, and order processing time, in days columns for better comparisons.    
-
-   
+<br>
  ---  
 
  **Exploratory Data Analysis**
