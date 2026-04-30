@@ -1,11 +1,11 @@
-## Superstore's Performance, Customer, and Product Analysis
+𝗘𝗔𝗦𝗧𝗡𝗔𝗧 𝗟𝗜𝗠𝗜𝗧𝗘𝗗: 𝗦𝗔𝗟𝗘𝗦 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗔𝗡𝗗 𝗥𝗘𝗧𝗨𝗥𝗡𝗦 𝗥𝗘𝗖𝗢𝗩𝗘𝗥𝗬 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
 
 ![hanson-lu-sq5P00L7lXc-unsplash](https://github.com/user-attachments/assets/74fc54bb-9619-4bf2-98d0-559ff9517e1b)
 
 
-## Project Overview
+Introduction
 
-This dataset contains 11,978 transactional records for a superstore, including sales, profits, customer information, and product categories. The primary goal is to leverage this data to identify key drivers of profitability, understand customer purchasing behaviour, optimise product inventory and pricing, and ultimately provide actionable insights to increase overall store performance and reduce losses from returned items.
+The objective of this 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 is to conduct a thorough evaluation of Eastnat Limited’s sales and profitability data, covering the years 2016 to 2021, to uncover key business insights. This analysis goes beyond simple top-line revenue to investigate the underlying factors that erode margins, with a specific focus on geographic profit pockets and the impact of shipping costs on regional performance. By integrating multi-year sales data with return and representative records, the project aims to establish a "source of truth" for identifying operational inefficiencies and scaling the business through data-driven decisions.
 
 ---
 ## Objectives and Business Questions
