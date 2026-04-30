@@ -151,7 +151,7 @@ The 𝘀𝘁𝗮𝗹𝗹𝗲𝗱 𝗔𝗢𝗩 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀
 - 𝗧𝗮𝗿𝗴𝗲𝘁 𝘁𝗵𝗲 𝗦𝗼𝘂𝘁𝗵 𝗳𝗼𝗿 𝗚𝗿𝗼𝘄𝘁𝗵: Since the South already has the highest natural AOV, 𝗽𝗿𝗶𝗼𝗿𝗶𝘁𝗶𝘇𝗲 𝗶𝘁 𝗳𝗼𝗿 "𝗣𝗿𝗲𝗺𝗶𝘂𝗺" 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗰𝗮𝗺𝗽𝗮𝗶𝗴𝗻𝘀. Closing 𝘁𝗵𝗲 $𝟳𝟱 𝗴𝗮𝗽 will have the most significant impact on the bottom line.
 - 𝗠𝗼𝗻𝗶𝘁𝗼𝗿 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗳𝗼𝗿 "𝗩𝗮𝗺𝗽𝗶𝗿𝗲" 𝗢𝗿𝗱𝗲𝗿𝘀: Flag 𝗵𝗶𝗴𝗵-𝘃𝗮𝗹𝘂𝗲 𝗼𝗿𝗱𝗲𝗿𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝘁𝗵𝗮𝘁 𝗰𝗼𝗻𝘀𝗶𝘀𝘁 𝗽𝘂𝗿𝗲𝗹𝘆 𝗼𝗳 𝗵𝗶𝗴𝗵-𝗿𝗲𝘁𝘂𝗿𝗻 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀. These inflated AOVs are often "false positives" that 𝗿𝗲𝘀𝘂𝗹𝘁 𝗶𝗻 𝗮 𝗻𝗲𝘁 𝗹𝗼𝘀𝘀 𝗮𝗳𝘁𝗲𝗿 𝘁𝗵𝗲 𝗿𝗲𝘁𝘂𝗿𝗻 𝗶𝘀 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝗱.
 
-
+---
 ---
 𝗥𝗘𝗧𝗨𝗥𝗡 𝗜𝗠𝗣𝗔𝗖𝗧 
 
