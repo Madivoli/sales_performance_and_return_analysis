@@ -17,11 +17,9 @@ The objective of this project is to conduct a thorough evaluation of Eastnat Lim
 ✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻: Which Sub-Categories have a return rate higher than 10%, and what is the total "Burned Profit" (Profit from orders that were eventually returned) for these items?
 
 
-
 𝗧𝗮𝘀𝗸 𝟮. 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗠𝗮𝗿𝗴𝗶𝗻 𝗛𝗲𝗮𝗹𝘁𝗵
 
 ✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  At what specific discount threshold (0%, 20%, 50%) does the Profit Margin consistently turn negative? We need to find the "Danger Zone" where sales are high but profits are nonexistent.
-
 
 
 𝗧𝗮𝘀𝗸 𝟯. 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝗼𝘁𝘁𝗹𝗲𝗻𝗲𝗰𝗸 𝗜𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻
@@ -29,11 +27,9 @@ The objective of this project is to conduct a thorough evaluation of Eastnat Lim
 ✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Which Regional Manager has the highest Average Shipping Duration, and is there a correlation between long shipping times and high return rates?
 
 
-
 𝗧𝗮𝘀𝗸 𝟰. 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗶𝗻𝗴
 
 ✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Who are the top 5% of customers in terms of Lifetime Value (LTV) who have a Return Rate of 0%?
-
 
 
 𝗧𝗮𝘀𝗸 𝟱. 𝗜𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗥𝗶𝘀𝗸 𝗮𝗻𝗱 𝗢𝘃𝗲𝗿𝘀𝘁𝗼𝗰𝗸 𝗠𝗶𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻
@@ -50,7 +46,8 @@ The objective of this project is to conduct a thorough evaluation of Eastnat Lim
 
 <img width="984" height="556" alt="image" src="https://github.com/user-attachments/assets/45be9116-4217-41f5-96e2-7ac376862154" />
 
----
+<br>
+
 1️⃣ 𝗚𝗹𝗼𝗯𝗮𝗹 𝗦𝗮𝗹𝗲𝘀
 
 𝗧𝗵𝗲 "𝗛𝗶𝗴𝗵 𝗩𝗼𝗹𝘂𝗺𝗲, 𝗟𝗼𝘄 𝗩𝗮𝗹𝘂𝗲" 𝗧𝗿𝗮𝗽
@@ -155,118 +152,108 @@ The 𝘀𝘁𝗮𝗹𝗹𝗲𝗱 𝗔𝗢𝗩 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀
 ---
 𝗥𝗘𝗧𝗨𝗥𝗡 𝗜𝗠𝗣𝗔𝗖𝗧 
 
-𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲: Identify sub-categories with 𝗮 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝗲𝘅𝗰𝗲𝗲𝗱𝗶𝗻𝗴 𝟭𝟬% and 𝗾𝘂𝗮𝗻𝘁𝗶𝗳𝘆 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 𝗽𝗿𝗼𝗳𝗶𝘁 𝗹𝗼𝘀𝘁 𝗱𝘂𝗲 𝘁𝗼 𝘁𝗵𝗼𝘀𝗲 𝗿𝗲𝘁𝘂𝗿𝗻𝘀. This allows management to investigate whether the issues are related to product quality, shipping damage, or inaccurate online descriptions.
+While the overall store performance is strong, 𝗰𝗲𝗿𝘁𝗮𝗶𝗻 𝘀𝘂𝗯-𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀 𝗮𝗿𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗶𝗻𝗴 𝗵𝗶𝗴𝗵 𝗿𝗲𝘁𝘂𝗿𝗻 𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝗰𝗶𝗲𝘀 𝘁𝗵𝗮𝘁 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁𝗹𝘆 𝗶𝗺𝗽𝗮𝗰𝘁 𝗻𝗲𝘁 𝗽𝗿𝗼𝗳𝗶𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆. Specifically, the 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 sub-category has emerged as 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵𝗲𝘀𝘁 𝗿𝗶𝘀𝗸 𝗮𝗿𝗲𝗮 𝘄𝗶𝘁𝗵 𝗮 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝗼𝗳 𝟭𝟭.𝟯𝟱%, followed closely by 𝗧𝗮𝗯𝗹𝗲𝘀 (𝟵.𝟰𝟵%) and 𝗣𝗮𝗽𝗲𝗿 (𝟵.𝟮𝟬%).
 
 <br>
 
-<img width="981" height="556" alt="image" src="https://github.com/user-attachments/assets/c27221c1-9d18-4b86-a049-aead6e051e2e" />
+<img width="985" height="555" alt="image" src="https://github.com/user-attachments/assets/e04f55d3-9ade-4cd6-89bd-5b195941ce08" />
 
-  
+<br>
 
+1️⃣ 𝗛𝗶𝗴𝗵-𝗥𝗲𝘁𝘂𝗿𝗻 𝗦𝘂𝗯-𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀 𝗮𝗻𝗱 𝗣𝗿𝗼𝗳𝗶𝘁 𝗘𝗿𝗼𝘀𝗶𝗼𝗻
 
+𝗛𝗶𝗴𝗵-𝗙𝗿𝗲𝗾𝘂𝗲𝗻𝗰𝘆 𝗥𝗲𝘁𝘂𝗿𝗻𝘀: 𝗧𝗵𝗲 "𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀" 𝗧𝗵𝗿𝗲𝘀𝗵𝗼𝗹𝗱
 
----
+The Machines sub-category is currently the only segment exceeding the 10% management threshold.
+- 𝗙𝗶𝗻𝗱𝗶𝗻𝗴: 𝟭𝟭.𝟯𝟱% of all Machine orders are returned.
+- 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁: This represents $𝟭,𝟯𝟮𝟱.𝟴𝟰 𝗶𝗻 𝗽𝗿𝗼𝗳𝗶𝘁 𝘁𝗵𝗮𝘁 𝘄𝗮𝘀 𝗿𝗲𝗰𝗼𝗿𝗱𝗲𝗱 𝗯𝘂𝘁 𝗻𝗲𝘃𝗲𝗿 𝗿𝗲𝗮𝗹𝗶𝘇𝗲𝗱. Beyond the lost profit, there are 𝘂𝗻𝗾𝘂𝗮𝗻𝘁𝗶𝗳𝗶𝗲𝗱 𝗰𝗼𝘀𝘁𝘀 𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝘁𝗼 𝗿𝗲𝘀𝘁𝗼𝗰𝗸𝗶𝗻𝗴 𝗳𝗲𝗲𝘀, 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗶𝗮𝗻 𝘁𝗶𝗺𝗲 𝗳𝗼𝗿 𝘁𝗲𝘀𝘁𝗶𝗻𝗴 𝗿𝗲𝘁𝘂𝗿𝗻𝗲𝗱 𝗵𝗮𝗿𝗱𝘄𝗮𝗿𝗲, and 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗹𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀.
 
+<br>
 
+𝗧𝗵𝗲 𝗗𝗼𝘂𝗯𝗹𝗲-𝗟𝗼𝘀𝘀 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀: 𝗕𝗶𝗻𝗱𝗲𝗿𝘀 𝗮𝗻𝗱 𝗧𝗮𝗯𝗹𝗲𝘀
 
----
+A critical discovery in the data is that 𝘀𝗼𝗺𝗲 𝗿𝗲𝘁𝘂𝗿𝗻𝗲𝗱 𝗶𝘁𝗲𝗺𝘀 𝗵𝗮𝗱 𝗻𝗲𝗴𝗮𝘁𝗶𝘃𝗲 𝗽𝗿𝗼𝗳𝗶𝘁 𝗺𝗮𝗿𝗴𝗶𝗻𝘀 𝗲𝘃𝗲𝗻 𝗯𝗲𝗳𝗼𝗿𝗲 𝘁𝗵𝗲𝘆 𝘄𝗲𝗿𝗲 𝗿𝗲𝘁𝘂𝗿𝗻𝗲𝗱.
+- 𝗙𝗶𝗻𝗱𝗶𝗻𝗴: Returns for 𝗕𝗶𝗻𝗱𝗲𝗿𝘀 and 𝗧𝗮𝗯𝗹𝗲𝘀 show 𝗮 𝗻𝗲𝗴𝗮𝘁𝗶𝘃𝗲 𝗽𝗿𝗼𝗳𝗶𝘁 𝗶𝗺𝗽𝗮𝗰𝘁 (-$𝟱,𝟰𝟱𝟰.𝟵𝟭 𝗮𝗻𝗱 -$𝟭,𝟳𝟱𝟳.𝟳𝟳, 𝗿𝗲𝘀𝗽𝗲𝗰𝘁𝗶𝘃𝗲𝗹𝘆).
+- 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁: This indicates 𝗮 𝗱𝗼𝘂𝗯𝗹𝗲 𝗹𝗼𝘀𝘀 𝘀𝗰𝗲𝗻𝗮𝗿𝗶𝗼. The store is likely 𝘂𝘀𝗶𝗻𝗴 𝗵𝗲𝗮𝘃𝘆 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀 (𝗹𝗼𝘀𝘀-𝗹𝗲𝗮𝗱𝗲𝗿𝘀) 𝘁𝗼 𝗺𝗼𝘃𝗲 𝘁𝗵𝗲𝘀𝗲 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀, but when they are returned, 𝘁𝗵𝗲 𝘀𝘁𝗼𝗿𝗲 𝗮𝗯𝘀𝗼𝗿𝗯𝘀 𝘁𝗵𝗲 𝗶𝗻𝗶𝘁𝗶𝗮𝗹 𝗹𝗼𝘀𝘀 𝗽𝗹𝘂𝘀 𝘁𝗵𝗲 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝘁𝘂𝗿𝗻. This suggests these sub-categories are currently 𝗮 𝗱𝗿𝗮𝗶𝗻 𝗼𝗻 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀.
 
-**Is there a relationship between discount levels and profit margin? At what discount level do products typically become unprofitable?**
+<br>
 
-<img width="975" height="156" alt="image" src="https://github.com/user-attachments/assets/ee1cb8c9-f70a-4bb5-8c57-ee2739e70126" />
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
 
-
-**Key Insight:** 
-
-- There exists a **strong negative linear relationship between discount and profit margin**. This finding corroborates the previous correlation results (r = -0.76).
-- The intercept of 42.63% indicates that **when the discount is 0%**, the **predicted profit margin is 42.63%**.
-- The slope of -195.73 suggests that **for each 1 unit increase in discount, the profit margin is expected to decrease by 195.73 units**.
-- The R-squared value of 0.7475 (or 74.8%) signifies that **74.8% of the variability in profit margin can be attributed to the discount variable alone**.
-- Therefore, **discount serves as a very strong predictor of profit margin** within this model.
-
-
-<img width="975" height="103" alt="image" src="https://github.com/user-attachments/assets/c90d5229-e6f4-4d1d-95e6-549793b04cfd" />
-
-
-**Key Insight:** 
-
-- The **products will become unprofitable when the discount exceeds 21.8%**.
+- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘂𝗱𝗶𝘁 (𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀): Conduct 𝗮 𝗱𝗲𝗲𝗽-𝗱𝗶𝘃𝗲 𝗿𝗲𝘃𝗶𝗲𝘄 𝗼𝗳 𝘁𝗵𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 𝘀𝘂𝗯-𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝘆. 𝘈𝘳𝘦 𝘵𝘩𝘦𝘴𝘦 𝘳𝘦𝘵𝘶𝘳𝘯𝘴 𝘥𝘶𝘦 𝘵𝘰 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘥𝘦𝘧𝘦𝘤𝘵𝘴, or 𝘢𝘳𝘦 𝘵𝘩𝘦𝘺 "𝘣𝘶𝘺𝘦𝘳'𝘴 𝘳𝘦𝘮𝘰𝘳𝘴𝘦" 𝘤𝘢𝘶𝘴𝘦𝘥 𝘣𝘺 𝘩𝘪𝘨𝘩 𝘱𝘳𝘪𝘤𝘦 𝘱𝘰𝘪𝘯𝘵𝘴?
+- 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗣𝗼𝗹𝗶𝗰𝘆 𝗥𝗲𝘃𝗶𝘀𝗶𝗼𝗻 (𝗕𝗶𝗻𝗱𝗲𝗿𝘀 & 𝗧𝗮𝗯𝗹𝗲𝘀): Since Binders and Tables are being returned at high rates while already losing money, we recommend 𝗿𝗲𝗱𝘂𝗰𝗶𝗻𝗴 𝘁𝗵𝗲 𝗺𝗮𝘅𝗶𝗺𝘂𝗺 𝗮𝗹𝗹𝗼𝘄𝗮𝗯𝗹𝗲 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗳𝗼𝗿 𝘁𝗵𝗲𝘀𝗲 𝗶𝘁𝗲𝗺𝘀. There is a high probability that "𝗱𝗲𝗲𝗽-𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗵𝘂𝗻𝘁𝗲𝗿𝘀" 𝗵𝗮𝘃𝗲 𝗮 𝗹𝗼𝘄𝗲𝗿 𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁 𝘁𝗼 𝘁𝗵𝗲 𝗽𝘂𝗿𝗰𝗵𝗮𝘀𝗲.
+- 𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗱 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻/𝗣𝗿𝗲-𝗦𝗮𝗹𝗲𝘀 (𝗖𝗼𝗽𝗶𝗲𝗿𝘀): Given the $𝟴.𝟲𝗸 𝗶𝗺𝗽𝗮𝗰𝘁, we should 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝗮 "𝗵𝗶𝗴𝗵-𝘁𝗼𝘂𝗰𝗵" 𝗽𝗿𝗲-𝘀𝗮𝗹𝗲𝘀 𝗰𝗵𝗲𝗰𝗸 𝗳𝗼𝗿 𝗖𝗼𝗽𝗶𝗲𝗿𝘀 𝘁𝗼 𝗲𝗻𝘀𝘂𝗿𝗲 𝘁𝗵𝗲 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗶𝘀 𝗼𝗿𝗱𝗲𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗰𝗼𝗿𝗿𝗲𝗰𝘁 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀, reducing "incorrect item" returns.
 
 ---
 
-**Are the loss-making products concentrated in certain categories that might be used to attract customers?**
+2️⃣ 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗩𝗮𝗿𝗶𝗮𝗻𝗰𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
 
--- Analysis of loss-making products concentration
+𝗦𝗲𝘃𝗲𝗿𝗲 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝘆 (𝗧𝗵𝗲 𝗪𝗲𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻)
 
-<img width="1350" height="117" alt="image" src="https://github.com/user-attachments/assets/d830cd07-e535-4d61-a3be-6dc94a351923" />
+The West region, 𝗺𝗮𝗻𝗮𝗴𝗲𝗱 𝗯𝘆 𝗔𝗻𝗻𝗮 𝗔𝗻𝗱𝗿𝗲𝗮𝗱𝗶, is currently 𝗳𝗮𝗰𝗶𝗻𝗴 𝗮 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗿𝗲𝘁𝘂𝗿𝗻 𝗰𝗿𝗶𝘀𝗶𝘀.
+- 𝗙𝗶𝗻𝗱𝗶𝗻𝗴: The return rate in the West stands at 𝟮𝟬.𝟬𝟬%, which is 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝗱𝗼𝘂𝗯𝗹𝗲 𝘁𝗵𝗲 𝗰𝗼𝗺𝗽𝗮𝗻𝘆-𝘄𝗶𝗱𝗲 𝗮𝘃𝗲𝗿𝗮𝗴𝗲 and 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁𝗹𝘆 𝗵𝗶𝗴𝗵𝗲𝗿 𝘁𝗵𝗮𝗻 𝘁𝗵𝗲 𝟭𝟬% 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝘁𝗵𝗿𝗲𝘀𝗵𝗼𝗹𝗱.
+- 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁: 𝗢𝗻𝗲 𝗼𝘂𝘁 𝗼𝗳 𝗲𝘃𝗲𝗿𝘆 𝗳𝗶𝘃𝗲 𝗶𝘁𝗲𝗺𝘀 𝘀𝗼𝗹𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗶𝘀 𝗯𝗲𝗶𝗻𝗴 𝗿𝗲𝘁𝘂𝗿𝗻𝗲𝗱. This suggests 𝗮 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗹𝗲𝗮𝗸𝗮𝗴𝗲. Not only is 𝗽𝗿𝗼𝗳𝗶𝘁 𝗯𝗲𝗶𝗻𝗴 𝗹𝗼𝘀𝘁, but the 𝗰𝗼𝘀𝘁 𝗼𝗳 𝗿𝗲𝘃𝗲𝗿𝘀𝗲 𝗹𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀 (𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴, 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗿𝗲𝘀𝘁𝗼𝗰𝗸𝗶𝗻𝗴) in the West is likely 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵𝗲𝘀𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝗺𝗽𝗮𝗻𝘆.
+
+<br>
+
+𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲 (𝗧𝗵𝗲 𝗖𝗲𝗻𝘁𝗿𝗮𝗹 𝗥𝗲𝗴𝗶𝗼𝗻)
+
+𝗞𝗲𝗹𝗹𝘆 𝗪𝗶𝗹𝗹𝗶𝗮𝗺𝘀 in the Central Region is currently 𝘁𝗵𝗲 𝘁𝗼𝗽 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗿 𝗿𝗲𝗴𝗮𝗿𝗱𝗶𝗻𝗴 𝗿𝗲𝘁𝘂𝗿𝗻 𝗺𝗶𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻.
+- 𝗙𝗶𝗻𝗱𝗶𝗻𝗴: An exceptionally 𝗹𝗼𝘄 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝗼𝗳 𝟯.𝟱𝟳%.
+- 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁: The Central region 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝘀 𝗮 𝗯𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗿𝗲𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗰𝗼𝗺𝗽𝗮𝗻𝘆. Low returns mean 𝘀𝘁𝗮𝗯𝗹𝗲 𝗿𝗲𝘃𝗲𝗻𝘂𝗲, 𝗽𝗿𝗲𝗱𝗶𝗰𝘁𝗮𝗯𝗹𝗲 𝗶𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗹𝗲𝘃𝗲𝗹𝘀, 𝗮𝗻𝗱 𝗵𝗶𝗴𝗵𝗲𝗿 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝘀𝗮𝘁𝗶𝘀𝗳𝗮𝗰𝘁𝗶𝗼𝗻.
+
+<br>
+
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
+
+- 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗥𝗲𝘃𝗶𝗲𝘄 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻: A mandatory 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝘂𝗱𝗶𝘁 𝗶𝘀 𝗿𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗲𝗱 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻. We need to 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗲 𝗶𝗳 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝗶𝘀 𝗱𝘂𝗲 𝘁𝗼 𝗮 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝘄𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲’𝘀 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗲𝗿𝗿𝗼𝗿𝘀, an 𝗮𝗴𝗴𝗿𝗲𝘀𝘀𝗶𝘃𝗲 𝘀𝗮𝗹𝗲𝘀 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝘁𝗵𝗮𝘁 𝗼𝘃𝗲𝗿-𝗽𝗿𝗼𝗺𝗶𝘀𝗲𝘀 𝗼𝗻 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗰𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀, or 𝗮 𝗵𝗶𝗴𝗵 𝗰𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲 "𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀" 𝘀𝘂𝗯-𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝘆 𝗿𝗲𝘁𝘂𝗿𝗻𝘀 𝗶𝗻 𝘁𝗵𝗮𝘁 𝗮𝗿𝗲𝗮.
+- 𝗠𝗲𝗻𝘁𝗼𝗿𝘀𝗵𝗶𝗽 𝗣𝗿𝗼𝗴𝗿𝗮𝗺: Implement 𝗮 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲-𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗶𝗻𝗶𝘁𝗶𝗮𝘁𝗶𝘃𝗲 𝘄𝗵𝗲𝗿𝗲 𝗞𝗲𝗹𝗹𝘆 𝗪𝗶𝗹𝗹𝗶𝗮𝗺𝘀 (𝗖𝗲𝗻𝘁𝗿𝗮𝗹) 𝘀𝗵𝗮𝗿𝗲𝘀 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗯𝗲𝘀𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀 for order accuracy and customer follow-up 𝘄𝗶𝘁𝗵 𝗔𝗻𝗻𝗮 𝗔𝗻𝗱𝗿𝗲𝗮𝗱𝗶 and 𝗖𝗵𝘂𝗰𝗸 𝗠𝗮𝗴𝗲𝗲.
 
 
-**Key Insight:** 
+---
+---
+𝗗𝗜𝗦𝗖𝗢𝗨𝗡𝗧 𝗢𝗣𝗧𝗜𝗠𝗜𝗭𝗔𝗧𝗜𝗢𝗡 𝗔𝗡𝗗 𝗠𝗔𝗥𝗚𝗜𝗡 𝗛𝗘𝗔𝗟𝗧𝗛
 
-- A significant 32.51% of all loss-making products are concentrated in a single category: Furniture.
-- This suggests a highly uneven distribution of loss-making products across different categories.
+<br>
+
+<img width="985" height="555" alt="image" src="https://github.com/user-attachments/assets/d8d18bc8-0187-41ef-aa15-027be9ea3edd" />
+
+
+<br>
+
+1️⃣ 𝗙𝗶𝗻𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 "𝗗𝗮𝗻𝗴𝗲𝗿 𝗭𝗼𝗻𝗲"
+
+The data reveals 𝗮 𝘀𝘁𝗮𝗿𝗸 "𝗣𝗿𝗼𝗳𝗶𝘁 𝗖𝗹𝗶𝗳𝗳" 𝗮𝘀 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲. Here is how the margins shift across the thresholds the analysis identified:
+
+<br>
+
+<img width="1125" height="136" alt="image" src="https://github.com/user-attachments/assets/8eb0f512-0d3f-4711-9bca-6fff7f3c125f" />
+
+<br>
+
+𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 & 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+
+✅ 𝗧𝗵𝗲 "𝟮𝟬% 𝗦𝗮𝗳𝗲 𝗛𝗮𝗿𝗯𝗼𝗿"
+
+𝗔𝘁 𝗮 𝟮𝟬% 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁, the store still maintains 𝗮 𝗱𝗼𝘂𝗯𝗹𝗲-𝗱𝗶𝗴𝗶𝘁 𝗽𝗿𝗼𝗳𝗶𝘁 𝗺𝗮𝗿𝗴𝗶𝗻 (𝟭𝟭.𝟳𝟴%). While this is lower than the 29% baseline, 𝗶𝘁 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝗮 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝘃𝗼𝗹𝘂𝗺𝗲 𝗼𝗳 𝘀𝗮𝗹𝗲𝘀 ($𝟵𝟭𝟱𝗸) that is still contributing positively to the bottom line.
+
+✅ 𝗧𝗵𝗲 𝟯𝟬% 𝗣𝗿𝗼𝗳𝗶𝘁 𝗖𝗹𝗶𝗳𝗳
+
+𝗧𝗵𝗲 𝟯𝟬% 𝘁𝗵𝗿𝗲𝘀𝗵𝗼𝗹𝗱 𝗶𝘀 𝘁𝗵𝗲 𝗱𝗲𝗳𝗶𝗻𝗶𝘁𝗶𝘃𝗲 "𝗗𝗮𝗻𝗴𝗲𝗿 𝗭𝗼𝗻𝗲". At this level, 𝗲𝘃𝗲𝗿𝘆 𝗱𝗼𝗹𝗹𝗮𝗿 𝗼𝗳 𝘀𝗮𝗹𝗲𝘀 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝘀𝘂𝗯𝘁𝗿𝗮𝗰𝘁𝘀 𝗻𝗲𝗮𝗿𝗹𝘆 𝟭𝟬 𝗰𝗲𝗻𝘁𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗰𝗼𝗺𝗽𝗮𝗻𝘆'𝘀 𝗿𝗲𝘃𝗲𝗻𝘂𝗲.
+- 𝗧𝗵𝗲 𝗥𝗲𝗮𝗹𝗶𝘁𝘆: Any promotion or manager-override that exceeds 25% is likely actively destroying value.
+
+✅ 𝗧𝗵𝗲 "𝗛𝗶𝗴𝗵-𝗩𝗼𝗹𝘂𝗺𝗲, 𝗡𝗼-𝗣𝗿𝗼𝗳𝗶𝘁" 𝗧𝗿𝗮𝗽
+At 𝟱𝟬% 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁, the store still generates $𝟵𝟬,𝟬𝟬𝟬 𝗶𝗻 𝘀𝗮𝗹𝗲𝘀.
+- 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁: On paper, a manager like Anna Andreadi (West) might look successful because she is "moving inventory" and generating high sales figures. However, these sales resulted in a $26,000 loss. This confirms that "Sales Volume" is a vanity metric in the West if it is being achieved through these deep discounts.
+
+Strategic Recommendations for Management
+We should implement a "Discount Ceiling" of 20% for all standard sales.
+•	Any discount reaching 30% or higher should require a secondary approval from a senior director, as our data proves these transactions are mathematically guaranteed to be unprofitable.
+•	We should also cross-reference this with our Serial Returner list. If customers are buying at 50% off and then returning the items, the store is losing money twice: once on the negative margin and once on the return logistics.
 
 ----
 
-## Customer Segmentation and Sales Analysis
 
-**Who are our most valuable customers? Can we segment them by sales, profit, or region?**
-
--- Most valuable customers by sales and profits
-
-
-<img width="1517" height="529" alt="image" src="https://github.com/user-attachments/assets/2370b654-0425-4bac-9c0c-9513c958b4e7" />
-
-
-**Key Insight:** 
-
-- Customer ID SC-20095 is **the most valuable customer**, as they generate the highest sales and profit.
-
-
--- Customer segmentation by profit and tier
-
-  <img width="1022" height="677" alt="image" src="https://github.com/user-attachments/assets/293bde8a-a99d-496f-80da-63224b1c10e2" />
-
-
-**Key Insight:** 
-
-- The Gold Tier is the most profitable customer segment.
-- Customers such as Sanjit Chand and Tamara Chand generate significantly more profit than customers in other tiers.
-- Sanjit Chand, in particular, is a highly valuable customer, contributing over $9,000 in profit.
-
--- Regional customer value analysis
-
-<img width="947" height="677" alt="image" src="https://github.com/user-attachments/assets/a5a4fd3e-9bf1-4dab-aeed-398c88b8861c" />
-
-
-**Key Insight:** 
-
-- The West region has the highest number of profitable customers, totalling 615, and boasts an impressive profitability rate of 90.31%.
-- This indicates that more than 90% of customers in the West are profitable, making it the most valuable region for the business.
-
-
--- Customer segmentation 
-
- -- Segmenting customers into 4 value segments/tiers: Platinum, Gold, Silver and Bronze
- 
-<img width="1500" height="764" alt="image" src="https://github.com/user-attachments/assets/02806d85-c029-4d74-956d-574ab350582e" />
-
-
--- Using the segmented data to answer the following question:
-
--- Who are our most valuable 20 customers?
-
-
-<img width="1502" height="677" alt="image" src="https://github.com/user-attachments/assets/41d703f3-d668-4f3b-b67d-ee7c1c104e85" />
-
-
-**Key Insight:** 
-
-- Greg Tran is **the most frequent purchaser**, with a total of **7 orders**.
-- He is followed by Adrian Barton, who has placed 6 orders, and Maria Etezadi, who has made 5 orders.
-- A small group of customers — Tran, Barton, Etezadi, and Gary Hwang — accounts for a significant portion of the total orders.
-- In contrast, many customers have only placed 1 or 2 orders.
-- This pattern indicates that a few customers are driving the majority of the transaction volume. This creates a significant business risk if any customer churns.
 
 ---
 
