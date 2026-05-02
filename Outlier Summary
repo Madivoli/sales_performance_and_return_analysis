@@ -1,0 +1,1 @@
+To check for outliers in our cleaned dataset, I used the Interquartile Range (IQR) method and generated boxplots for the key numerical columns: Sales, Quantity, Discount, Profit, and Days to Ship.
