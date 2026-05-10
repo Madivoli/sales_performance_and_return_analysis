@@ -1,45 +1,24 @@
-𝗦𝗔𝗟𝗘𝗦 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗔𝗡𝗗 𝗥𝗘𝗧𝗨𝗥𝗡𝗦 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
+𝗦𝗔𝗟𝗘𝗦 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗔𝗡𝗗 𝗥𝗘𝗧𝗨𝗥𝗡𝗦 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦, 𝗘𝗔𝗦𝗧𝗡𝗔𝗧 𝗟𝗜𝗠𝗜𝗧𝗘𝗗 
 
 <br>
 
 ![hanson-lu-sq5P00L7lXc-unsplash](https://github.com/user-attachments/assets/74fc54bb-9619-4bf2-98d0-559ff9517e1b)
 
----
+<br>
 
 𝗜𝗡𝗧𝗥𝗢𝗗𝗨𝗖𝗧𝗜𝗢𝗡
 
 The objective of this project is to conduct a thorough evaluation of Eastnat Limited’s sales and profitability data, covering the years 2016 to 2021, to uncover key business insights. This analysis goes beyond simple top-line revenue to 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗲 𝘁𝗵𝗲 𝘂𝗻𝗱𝗲𝗿𝗹𝘆𝗶𝗻𝗴 𝗳𝗮𝗰𝘁𝗼𝗿𝘀 𝘁𝗵𝗮𝘁 𝗲𝗿𝗼𝗱𝗲 𝗺𝗮𝗿𝗴𝗶𝗻𝘀, with a specific focus on geographic profit pockets and 𝘁𝗵𝗲 𝗶𝗺𝗽𝗮𝗰𝘁 𝗼𝗳 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗰𝗼𝘀𝘁𝘀 𝗼𝗻 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲. By integrating multi-year sales data with return and representative records, 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗮𝗶𝗺𝘀 𝘁𝗼 𝗲𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵 𝗮 "𝘀𝗼𝘂𝗿𝗰𝗲 𝗼𝗳 𝘁𝗿𝘂𝘁𝗵" 𝗳𝗼𝗿 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝘆𝗶𝗻𝗴 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝗻𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝗶𝗲𝘀 𝗮𝗻𝗱 𝘀𝗰𝗮𝗹𝗶𝗻𝗴 𝘁𝗵𝗲 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀.
 
 
----
+<br>
+
+
 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧 𝗧𝗔𝗦𝗞 
 
-𝗧𝗮𝘀𝗸 𝟭. 𝗥𝗲𝘁𝘂𝗿𝗻 𝗜𝗺𝗽𝗮𝗰𝘁
+<img width="1132" height="396" alt="image" src="https://github.com/user-attachments/assets/8edf72b5-9236-4393-848d-8147119468de" />
 
-✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻: Which Sub-Categories have a return rate higher than 10%, and what is the total "Burned Profit" (Profit from orders that were eventually returned) for these items?
-
-
-𝗧𝗮𝘀𝗸 𝟮. 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗠𝗮𝗿𝗴𝗶𝗻 𝗛𝗲𝗮𝗹𝘁𝗵
-
-✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  At what specific discount threshold (0%, 20%, 50%) does the Profit Margin consistently turn negative? We need to find the "Danger Zone" where sales are high but profits are nonexistent.
-
-
-𝗧𝗮𝘀𝗸 𝟯. 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝗼𝘁𝘁𝗹𝗲𝗻𝗲𝗰𝗸 𝗜𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻
-
-✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Which Regional Manager has the highest Average Shipping Duration, and is there a correlation between long shipping times and high return rates?
-
-
-𝗧𝗮𝘀𝗸 𝟰. 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗶𝗻𝗴
-
-✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Who are the top 5% of customers in terms of Lifetime Value (LTV) who have a Return Rate of 0%?
-
-
-𝗧𝗮𝘀𝗸 𝟱. 𝗜𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗥𝗶𝘀𝗸 𝗮𝗻𝗱 𝗢𝘃𝗲𝗿𝘀𝘁𝗼𝗰𝗸 𝗠𝗶𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻
-
-✔️ 𝗧𝗵𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:  Which products have high Quantity sold but fall into the bottom 10% of Total Profit? This identifies high-effort, low-reward inventory.
-
-
-
+---
 ---
 
 𝗞𝗘𝗬 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗠𝗘𝗧𝗥𝗜𝗖𝗦 
