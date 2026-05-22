@@ -24,7 +24,7 @@ The objective of this project is to conduct a thorough evaluation of Eastnat Lim
 𝗞𝗘𝗬 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗠𝗘𝗧𝗥𝗜𝗖𝗦 
 <br>
 
-<img width="984" height="556" alt="image" src="https://github.com/user-attachments/assets/45be9116-4217-41f5-96e2-7ac376862154" />
+<img width="1132" height="556" alt="image" src="https://github.com/user-attachments/assets/45be9116-4217-41f5-96e2-7ac376862154" />
 
 <br>
 
@@ -52,6 +52,7 @@ While global sales are robust **($2.7M against a $3.12M target)**, the growth is
 - 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗥𝗲𝗰𝗼𝘃𝗲𝗿𝘆: Aim for a 𝟭𝟱% 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝗿𝗲𝘁𝘂𝗿𝗻-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗹𝗼𝘀𝘀𝗲𝘀 to hit the "return impact target," which will 𝗿𝗲𝗰𝗹𝗮𝗶𝗺 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲 𝗰𝗮𝗽𝗶𝘁𝗮𝗹 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗿𝗲𝗾𝘂𝗶𝗿𝗶𝗻𝗴 𝗻𝗲𝘄 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗮𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻.
   
 ---
+
 2️⃣ 𝗦𝗮𝗹𝗲𝘀 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻
 
 ✅ 𝗧𝗵𝗲 𝗚𝗿𝗼𝘄𝘁𝗵 𝗚𝗮𝗽
@@ -74,10 +75,9 @@ The global sales target of $𝟯.𝟭𝟮𝗠 𝗱𝗲𝗽𝗲𝗻𝗱𝘀 𝗼�
 - 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗼𝘃𝗲𝗿 𝗤𝘂𝗮𝗻𝘁𝗶𝘁𝘆 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁: We should not attempt to 𝗰𝗹𝗼𝘀𝗲 𝘁𝗵𝗲 𝟰.𝟳𝟮% 𝗴𝗮𝗽 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗱𝗲𝗲𝗽 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝗶𝗻𝗴. This will only attract more "Serial Returners." 𝗪𝗲 𝘀𝗵𝗼𝘂𝗹𝗱 𝗳𝗼𝗰𝘂𝘀 𝗼𝗻 𝗺𝗮𝗿𝗴𝗶𝗻 𝗿𝗲𝗰𝗼𝘃𝗲𝗿𝘆 𝗳𝗶𝗿𝘀𝘁.
 - 𝗔𝗴𝗴𝗿𝗲𝘀𝘀𝗶𝘃𝗲 𝗘𝘅𝗽𝗮𝗻𝘀𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝗘𝗮𝘀𝘁: Prioritize 𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝘀𝗮𝗹𝗲𝘀 𝗶𝗻𝗰𝗲𝗻𝘁𝗶𝘃𝗲𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗘𝗮𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻. It is a high-volume contributor (𝟮𝟵%) without the severe return profile of the West, making it 𝘁𝗵𝗲 𝘀𝗮𝗳𝗲𝘀𝘁 𝗽𝗮𝘁𝗵 𝘁𝗼 𝗰𝗹𝗼𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗴𝗹𝗼𝗯𝗮𝗹 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗴𝗮𝗽.
 - 𝗧𝗮𝗿𝗴𝗲𝘁 𝗔𝗹𝗶𝗴𝗻𝗺𝗲𝗻𝘁: Update 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 𝗞𝗣𝗜𝘀 𝘁𝗼 𝗿𝗲𝗳𝗹𝗲𝗰𝘁 𝘁𝗵𝗲𝘀𝗲 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝗦𝗮𝗹𝗲𝘀 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗧𝗮𝗿𝗴𝗲𝘁𝘀 rather than historical performance, ensuring all regions are pulling toward the 𝟭𝟱% 𝗴𝗿𝗼𝘄𝘁𝗵 𝗼𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲.
-
-
-       
+      
 ---
+
 3️⃣ 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗟𝗶𝗳𝗲𝘁𝗶𝗺𝗲 𝗩𝗮𝗹𝘂𝗲 (𝗟𝗧𝗩)
 
 ✅ 𝗨𝗻𝗶𝗳𝗼𝗿𝗺 𝗨𝗻𝗱𝗲𝗿𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲
@@ -102,6 +102,7 @@ The 𝗱𝗲𝗽𝗿𝗲𝘀𝘀𝗲𝗱 𝗟𝗧𝗩 𝗶𝗻 𝘁𝗵𝗲 𝗪
 - 𝗥𝗲𝘁𝘂𝗿𝗻 𝗠𝗶𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻: In the West, 𝗹𝗼𝘄𝗲𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝗯𝘆 𝘁𝗵𝗲 𝘁𝗮𝗿𝗴𝗲𝘁𝗲𝗱 𝟭𝟱% will automatically uplift LTV by 𝗿𝗲𝘁𝗮𝗶𝗻𝗶𝗻𝗴 𝗺𝗼𝗿𝗲 𝗺𝗼𝗻𝗲𝘁𝗮𝗿𝘆 𝘃𝗮𝗹𝘂𝗲 𝗽𝗲𝗿 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿.
 
 ---  
+
 4️⃣ 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗢𝗿𝗱𝗲𝗿 𝗩𝗮𝗹𝘂𝗲 (𝗔𝗢𝗩)
 
 ✅ 𝗨𝗻𝗶𝗳𝗼𝗿𝗺 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗗𝗲𝗳𝗶𝗰𝗶𝘁
@@ -238,6 +239,7 @@ We should 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝗮 𝗱𝗶𝘀𝗰𝗼𝘂𝗻
 - We should also 𝗰𝗿𝗼𝘀𝘀-𝗿𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲 𝘁𝗵𝗶𝘀 𝘄𝗶𝘁𝗵 𝗼𝘂𝗿 𝗦𝗲𝗿𝗶𝗮𝗹 𝗥𝗲𝘁𝘂𝗿𝗻𝗲𝗿 𝗹𝗶𝘀𝘁. If customers are 𝗯𝘂𝘆𝗶𝗻𝗴 𝗮𝘁 𝟱𝟬% 𝗼𝗳𝗳 𝗮𝗻𝗱 𝘁𝗵𝗲𝗻 𝗿𝗲𝘁𝘂𝗿𝗻𝗶𝗻𝗴 𝘁𝗵𝗲 𝗶𝘁𝗲𝗺𝘀, the store is 𝗹𝗼𝘀𝗶𝗻𝗴 𝗺𝗼𝗻𝗲𝘆 𝘁𝘄𝗶𝗰𝗲: once on the 𝗻𝗲𝗴𝗮𝘁𝗶𝘃𝗲 𝗺𝗮𝗿𝗴𝗶𝗻 and once on the 𝗿𝗲𝘁𝘂𝗿𝗻 𝗹𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀.
 
 ----
+
 2️⃣ 𝗧𝗵𝗲 "𝗗𝗮𝗻𝗴𝗲𝗿 𝗭𝗼𝗻𝗲" 𝗢𝗿𝗱𝗲𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗲: 𝗪𝗲𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻
 
 The analysis processed the transaction logs for the West region and 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗲𝗱 𝘁𝗵𝗲 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝗢𝗿𝗱𝗲𝗿 𝗜𝗗𝘀 𝘁𝗵𝗮𝘁 𝗳𝗮𝗹𝗹 𝗶𝗻𝘁𝗼 𝘁𝗵𝗲 "𝗗𝗮𝗻𝗴𝗲𝗿 𝗭𝗼𝗻𝗲" (𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 ≥ 𝟯𝟬%). These orders 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝘀𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁 𝗽𝗿𝗼𝗳𝗶𝘁 𝗱𝗿𝗮𝗶𝗻𝘀 𝘂𝗻𝗱𝗲𝗿 𝗔𝗻𝗻𝗮 𝗔𝗻𝗱𝗿𝗲𝗮𝗱𝗶'𝘀 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁. 
@@ -251,6 +253,7 @@ These specific orders are critical because 𝘁𝗵𝗲𝘆 𝗰𝗼𝗺𝗯𝗶
 <img width="686" height="221" alt="image" src="https://github.com/user-attachments/assets/89ddcad2-f9e8-4011-bf1c-88f0033f0f63" />
 
 ---
+
 3️⃣	𝗔𝘂𝗱𝗶𝘁 𝗮𝗻𝗱 𝗔𝗰𝘁𝗶𝗼𝗻 𝗣𝗹𝗮𝗻 𝗳𝗼𝗿 𝗔𝗻𝗻𝗮 𝗔𝗻𝗱𝗿𝗲𝗮𝗱𝗶
 
 We recommend using this list to 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝘁𝗵𝗿𝗲𝗲 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲 "𝗵𝗮𝗿𝗱 𝘀𝘁𝗼𝗽𝘀" 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻'𝘀 𝗳𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁 𝘀𝘆𝘀𝘁𝗲𝗺:
@@ -263,17 +266,18 @@ We recommend using this list to 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝘁𝗵�
 ---
 ---
 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗕𝗢𝗧𝗧𝗟𝗘𝗡𝗘𝗖𝗞 𝗜𝗗𝗘𝗡𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡 
+
+
 <br>
 
-<img width="986" height="561" alt="image" src="https://github.com/user-attachments/assets/18266ffe-ee48-436b-bda6-9527c2ff3f13" />
+
 
 <br>
 
 1️⃣ 𝗠𝗮𝗻𝗮𝗴𝗲𝗿𝗶𝗮𝗹 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆 𝗮𝗻𝗱 𝗥𝗲𝘁𝘂𝗿𝗻𝘀
 
-- 𝗖𝗮𝘀𝘀𝗮𝗻𝗱𝗿𝗮 𝗕𝗿𝗮𝗻𝗱𝗼𝘄 (𝗦𝗼𝘂𝘁𝗵) is 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝗶𝗻 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆 𝗮𝗰𝗿𝗼𝘀𝘀 𝗯𝗼𝘁𝗵 𝗺𝗲𝘁𝗿𝗶𝗰𝘀 and 𝗞𝗲𝗹𝗹𝘆 𝗪𝗶𝗹𝗹𝗶𝗮𝗺𝘀 (𝗖𝗲𝗻𝘁𝗿𝗮𝗹) 𝘀𝗵𝗼𝘄𝗶𝗻𝗴 𝘁𝗵𝗮𝘁 𝗹𝗼𝗻𝗴 𝘄𝗮𝗶𝘁 𝘁𝗶𝗺𝗲𝘀 𝗱𝗼𝗻’𝘁 𝗮𝗹𝘄𝗮𝘆𝘀 𝘁𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗲 𝘁𝗼 𝗵𝗶𝗴𝗵 𝗿𝗲𝘁𝘂𝗿𝗻𝘀, we have a fascinating "Efficiency vs. Loyalty" case study.
-
-- The data from managerial efficiency and returns analysis 𝗿𝗲𝘃𝗲𝗮𝗹 𝗮 𝘀𝘁𝗿𝗶𝗸𝗶𝗻𝗴 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗱𝗶𝘃𝗶𝗱𝗲. While 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝘀𝗽𝗲𝗲𝗱𝘀 𝗮𝗿𝗲 𝗿𝗲𝗺𝗮𝗿𝗸𝗮𝗯𝗹𝘆 𝘀𝗶𝗺𝗶𝗹𝗮𝗿 𝗮𝗰𝗿𝗼𝘀𝘀 𝘁𝗵𝗲 𝗯𝗼𝗮𝗿𝗱, the 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝘃𝗮𝗿𝗶𝗲𝘀 𝘄𝗶𝗹𝗱𝗹𝘆, suggesting that 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻 𝗶𝘀 𝗳𝗮𝗰𝗶𝗻𝗴 𝗮 𝘀𝘆𝘀𝘁𝗲𝗺𝗶𝗰 𝗰𝗿𝗶𝘀𝗶𝘀 𝘁𝗵𝗮𝘁 𝘀𝗽𝗲𝗲𝗱 𝗮𝗹𝗼𝗻𝗲 𝗰𝗮𝗻𝗻𝗼𝘁 𝗳𝗶𝘅.
+- 𝗖𝗮𝘀𝘀𝗮𝗻𝗱𝗿𝗮 𝗕𝗿𝗮𝗻𝗱𝗼𝘄 (𝗦𝗼𝘂𝘁𝗵) is 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝗶𝗻 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆 𝗮𝗰𝗿𝗼𝘀𝘀 𝗯𝗼𝘁𝗵 𝗺𝗲𝘁𝗿𝗶𝗰𝘀 and 𝗞𝗲𝗹𝗹𝘆 𝗪𝗶𝗹𝗹𝗶𝗮𝗺𝘀 (𝗖𝗲𝗻𝘁𝗿𝗮𝗹) 𝘀𝗵𝗼𝘄𝘀 𝘁𝗵𝗮𝘁 𝗹𝗼𝗻𝗴 𝘄𝗮𝗶𝘁 𝘁𝗶𝗺𝗲𝘀 𝗱𝗼𝗻’𝘁 𝗮𝗹𝘄𝗮𝘆𝘀 𝘁𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗲 𝘁𝗼 𝗵𝗶𝗴𝗵 𝗿𝗲𝘁𝘂𝗿𝗻𝘀, we have a fascinating "Efficiency vs. Loyalty" case study.
+- The data from the analysis 𝗿𝗲𝘃𝗲𝗮𝗹𝘀 𝗮 𝘀𝘁𝗿𝗶𝗸𝗶𝗻𝗴 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗱𝗶𝘃𝗶𝗱𝗲. While 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝘀𝗽𝗲𝗲𝗱𝘀 𝗮𝗿𝗲 𝗿𝗲𝗺𝗮𝗿𝗸𝗮𝗯𝗹𝘆 𝘀𝗶𝗺𝗶𝗹𝗮𝗿 𝗮𝗰𝗿𝗼𝘀𝘀 𝘁𝗵𝗲 𝗯𝗼𝗮𝗿𝗱, the 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝘃𝗮𝗿𝗶𝗲𝘀 𝘄𝗶𝗹𝗱𝗹𝘆, suggesting that 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻 𝗶𝘀 𝗳𝗮𝗰𝗶𝗻𝗴 𝗮 𝘀𝘆𝘀𝘁𝗲𝗺𝗶𝗰 𝗰𝗿𝗶𝘀𝗶𝘀 𝘁𝗵𝗮𝘁 𝘀𝗽𝗲𝗲𝗱 𝗮𝗹𝗼𝗻𝗲 𝗰𝗮𝗻𝗻𝗼𝘁 𝗳𝗶𝘅.
 
 
 ---
@@ -282,7 +286,7 @@ We recommend using this list to 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝘁𝗵�
 
 Is Cassandra being "lucky" with her inventory? To 𝗶𝗻𝘁𝗲𝗿𝗿𝗼𝗴𝗮𝘁𝗲 𝘄𝗵𝘆 𝗖𝗮𝘀𝘀𝗮𝗻𝗱𝗿𝗮’𝘀 𝗦𝗼𝘂𝘁𝗵 𝗿𝗲𝗴𝗶𝗼𝗻 𝗶𝘀 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗮𝘁 𝘁𝗵𝗶𝘀 𝗴𝗼𝗹𝗱-𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱 𝗹𝗲𝘃𝗲𝗹, we built a 𝗗𝗿𝗶𝘃𝗲𝗿 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱.
 
-<img width="991" height="553" alt="Drivers Analysis" src="https://github.com/user-attachments/assets/7d2f7c66-1a25-46dd-be4e-81392f47b4d7" />
+<img width="1132" height="553" alt="Drivers Analysis" src="https://github.com/user-attachments/assets/7d2f7c66-1a25-46dd-be4e-81392f47b4d7" />
 
 
 <br>
@@ -306,7 +310,7 @@ In the 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 category (high-risk), 𝗔𝗻𝗻𝗮 �
 - This heatmap proves that Anna Andreadi is managing 𝗮 "𝗵𝗶𝗴𝗵-𝗳𝗿𝗶𝗰𝘁𝗶𝗼𝗻" 𝗿𝗲𝗴𝗶𝗼𝗻.
 - Kelly has 𝘁𝗵𝗲 𝗹𝗼𝗻𝗴𝗲𝘀𝘁 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗱𝘂𝗿𝗮𝘁𝗶𝗼𝗻 (𝟰.𝟬𝟴 𝗱𝗮𝘆𝘀) but some of the absolute lowest return rates in the company (e.g., 0.54% for Chairs). This confirms that 𝗖𝗲𝗻𝘁𝗿𝗮𝗹 𝗿𝗲𝗴𝗶𝗼𝗻 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝘀𝗮𝘁𝗶𝘀𝗳𝗶𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗱𝗲𝘀𝗽𝗶𝘁𝗲 𝘁𝗵𝗲 𝘄𝗮𝗶𝘁.
 
-<br>
+---
 
 3️⃣ 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗥𝗲𝘁𝘂𝗿𝗻 𝗩𝗮𝗿𝗶𝗮𝗻𝗰𝗲
 
@@ -340,13 +344,13 @@ The data proves that the West's high return rate isn't caused by "difficult" pro
 - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 & 𝗧𝗮𝗯𝗹𝗲𝘀: Immediately 𝘀𝘂𝘀𝗽𝗲𝗻𝗱 𝘁𝗵𝗲 𝟯𝟬% "𝗗𝗮𝗻𝗴𝗲𝗿 𝗭𝗼𝗻𝗲" 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀 𝗼𝗻 𝘁𝗵𝗲𝘀𝗲 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀 in the West. High returns in these categories (15–20%), combined with high discounts, suggest 𝗮 "𝗰𝗵𝘂𝗿𝗻" 𝗰𝘆𝗰𝗹𝗲 𝘄𝗵𝗲𝗿𝗲 𝘁𝗵𝗲 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗹𝗼𝘀𝗲𝘀 𝗺𝗼𝗻𝗲𝘆 𝗼𝗻 𝗲𝘃𝗲𝗿𝘆 𝘁𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻.
 - 𝗔𝗰𝘁𝗶𝗼𝗻: Implement 𝗮𝗻 𝗮𝗽𝗽𝗿𝗼𝘃𝗮𝗹 𝘁𝗿𝗶𝗴𝗴𝗲𝗿 𝗳𝗼𝗿 𝗮𝗻𝘆 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗼𝘃𝗲𝗿 𝟭𝟱% 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻.
 
+
 ---
 ---
 𝗖𝗨𝗦𝗧𝗢𝗠𝗘𝗥 𝗣𝗥𝗢𝗙𝗜𝗟𝗜𝗡𝗚 
-
 <br>
 
-<img width="987" height="551" alt="Customer Profiling" src="https://github.com/user-attachments/assets/df18dcd1-69cb-408f-8adc-991942430184" />
+<img width="1132" height="551" alt="Customer Profiling" src="https://github.com/user-attachments/assets/df18dcd1-69cb-408f-8adc-991942430184" />
 
 <br>
 
@@ -356,7 +360,7 @@ The results of the RFM analysis provide a clear view of Eastnat’s customer hea
 
 <br>
 
-<img width="1035" height="228" alt="image" src="https://github.com/user-attachments/assets/9de6f4ea-fb47-4adb-80b9-813851046f92" />
+<img width="1132" height="228" alt="image" src="https://github.com/user-attachments/assets/9de6f4ea-fb47-4adb-80b9-813851046f92" />
 
 <br>
 
