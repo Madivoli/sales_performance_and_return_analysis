@@ -198,6 +198,7 @@ The West region, 𝗺𝗮𝗻𝗮𝗴𝗲𝗱 𝗯𝘆 𝗔𝗻𝗻𝗮 𝗔𝗻
 
 <img width="985" height="555" alt="image" src="https://github.com/user-attachments/assets/d8d18bc8-0187-41ef-aa15-027be9ea3edd" />
 
+1132
 
 <br>
 
@@ -252,6 +253,7 @@ These specific orders are critical because 𝘁𝗵𝗲𝘆 𝗰𝗼𝗺𝗯𝗶
 
 <img width="686" height="221" alt="image" src="https://github.com/user-attachments/assets/89ddcad2-f9e8-4011-bf1c-88f0033f0f63" />
 
+1132
 ---
 
 3️⃣	𝗔𝘂𝗱𝗶𝘁 𝗮𝗻𝗱 𝗔𝗰𝘁𝗶𝗼𝗻 𝗣𝗹𝗮𝗻 𝗳𝗼𝗿 𝗔𝗻𝗻𝗮 𝗔𝗻𝗱𝗿𝗲𝗮𝗱𝗶
@@ -271,6 +273,7 @@ The data 𝗿𝗲𝘃𝗲𝗮𝗹𝘀 𝗮 𝘀𝘁𝗿𝗶𝗸𝗶𝗻𝗴 𝗼
 
 <br>
 
+<img width="1132" height="550" alt="image" src="https://github.com/user-attachments/assets/ebcf2a02-bbdf-4616-8cfc-1f8e35e2034d" />
 
 
 <br>
