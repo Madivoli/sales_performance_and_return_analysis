@@ -190,24 +190,22 @@ The West region, 𝗺𝗮𝗻𝗮𝗴𝗲𝗱 𝗯𝘆 𝗔𝗻𝗻𝗮 𝗔𝗻
 - 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗥𝗲𝘃𝗶𝗲𝘄 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻: A mandatory 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝘂𝗱𝗶𝘁 𝗶𝘀 𝗿𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗲𝗱 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻. We need to 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗲 𝗶𝗳 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝗶𝘀 𝗱𝘂𝗲 𝘁𝗼 𝗮 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝘄𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲’𝘀 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗲𝗿𝗿𝗼𝗿𝘀, an 𝗮𝗴𝗴𝗿𝗲𝘀𝘀𝗶𝘃𝗲 𝘀𝗮𝗹𝗲𝘀 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝘁𝗵𝗮𝘁 𝗼𝘃𝗲𝗿-𝗽𝗿𝗼𝗺𝗶𝘀𝗲𝘀 𝗼𝗻 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗰𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀, or 𝗮 𝗵𝗶𝗴𝗵 𝗰𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲 "𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀" 𝘀𝘂𝗯-𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝘆 𝗿𝗲𝘁𝘂𝗿𝗻𝘀 𝗶𝗻 𝘁𝗵𝗮𝘁 𝗮𝗿𝗲𝗮.
 - 𝗠𝗲𝗻𝘁𝗼𝗿𝘀𝗵𝗶𝗽 𝗣𝗿𝗼𝗴𝗿𝗮𝗺: Implement 𝗮 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲-𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗶𝗻𝗶𝘁𝗶𝗮𝘁𝗶𝘃𝗲 𝘄𝗵𝗲𝗿𝗲 𝗞𝗲𝗹𝗹𝘆 𝗪𝗶𝗹𝗹𝗶𝗮𝗺𝘀 (𝗖𝗲𝗻𝘁𝗿𝗮𝗹) 𝘀𝗵𝗮𝗿𝗲𝘀 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗯𝗲𝘀𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀 for order accuracy and customer follow-up 𝘄𝗶𝘁𝗵 𝗔𝗻𝗻𝗮 𝗔𝗻𝗱𝗿𝗲𝗮𝗱𝗶 and 𝗖𝗵𝘂𝗰𝗸 𝗠𝗮𝗴𝗲𝗲.
 
+1132
 
 ---
 ---
 𝗗𝗜𝗦𝗖𝗢𝗨𝗡𝗧 𝗢𝗣𝗧𝗜𝗠𝗜𝗭𝗔𝗧𝗜𝗢𝗡 𝗔𝗡𝗗 𝗠𝗔𝗥𝗚𝗜𝗡 𝗛𝗘𝗔𝗟𝗧𝗛
 <br>
 
-<img width="985" height="555" alt="image" src="https://github.com/user-attachments/assets/d8d18bc8-0187-41ef-aa15-027be9ea3edd" />
-
-1132
+<img width="1132" height="549" alt="Discount Optimization" src="https://github.com/user-attachments/assets/17abc20e-ab1d-4d94-b587-ba19ea9df4b8" />
 
 <br>
 
 1️⃣ 𝗙𝗶𝗻𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 "𝗗𝗮𝗻𝗴𝗲𝗿 𝗭𝗼𝗻𝗲"
 
-The data reveals 𝗮 𝘀𝘁𝗮𝗿𝗸 "𝗣𝗿𝗼𝗳𝗶𝘁 𝗖𝗹𝗶𝗳𝗳" 𝗮𝘀 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲. Here is how the margins shift across the thresholds the analysis identified:
+The data reveals 𝗮 𝘀𝘁𝗮𝗿𝗸 "𝗽𝗿𝗼𝗳𝗶𝘁 𝗰𝗹𝗶𝗳𝗳" 𝗮𝘀 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲. Here is how the margins shift across the different thresholds the analysis identified:
 
-<img width="738" height="133" alt="image" src="https://github.com/user-attachments/assets/8c14f4de-3703-4044-81d8-78d18189615a" />
-
+<img width="1132" height="146" alt="image" src="https://github.com/user-attachments/assets/0e87d6ca-34f6-4a17-aed3-1658fdb76c2a" />
 
 <br>
 
@@ -215,28 +213,27 @@ The data reveals 𝗮 𝘀𝘁𝗮𝗿𝗸 "𝗣𝗿𝗼𝗳𝗶𝘁 𝗖𝗹�
 
 𝗧𝗵𝗲 𝟮𝟬% 𝗦𝗮𝗳𝗲 𝗛𝗮𝗿𝗯𝗼𝗿:
 
-𝗔𝘁 𝗮 𝟮𝟬% 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁, the store still maintains 𝗮 𝗱𝗼𝘂𝗯𝗹𝗲-𝗱𝗶𝗴𝗶𝘁 𝗽𝗿𝗼𝗳𝗶𝘁 𝗺𝗮𝗿𝗴𝗶𝗻 (𝟭𝟭.𝟳𝟴%). While this is lower than the 29% baseline, 𝗶𝘁 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝗮 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝘃𝗼𝗹𝘂𝗺𝗲 𝗼𝗳 𝘀𝗮𝗹𝗲𝘀 ($𝟵𝟭𝟱𝗸) that is still contributing positively to the bottom line.
+- 𝗔𝘁 𝗮 𝟮𝟬% 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁, Eastnat still maintains 𝗮 𝗱𝗼𝘂𝗯𝗹𝗲-𝗱𝗶𝗴𝗶𝘁 𝗽𝗿𝗼𝗳𝗶𝘁 𝗺𝗮𝗿𝗴𝗶𝗻 (𝟭𝟭.𝟳𝟴%). While this is lower than the 16.92% baseline, 𝗶𝘁 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝗮 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝘃𝗼𝗹𝘂𝗺𝗲 𝗼𝗳 𝘀𝗮𝗹𝗲𝘀 ($𝟵𝟭𝟱,𝟰𝟰𝟱) that is still contributing positively to the bottom line.
 
 <br>
 
 𝗧𝗵𝗲 𝟯𝟬% 𝗣𝗿𝗼𝗳𝗶𝘁 𝗖𝗹𝗶𝗳𝗳:
 
-𝗧𝗵𝗲 𝟯𝟬% 𝘁𝗵𝗿𝗲𝘀𝗵𝗼𝗹𝗱 𝗶𝘀 𝘁𝗵𝗲 𝗱𝗲𝗳𝗶𝗻𝗶𝘁𝗶𝘃𝗲 "𝗗𝗮𝗻𝗴𝗲𝗿 𝗭𝗼𝗻𝗲". At this level, 𝗲𝘃𝗲𝗿𝘆 𝗱𝗼𝗹𝗹𝗮𝗿 𝗼𝗳 𝘀𝗮𝗹𝗲𝘀 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝘀𝘂𝗯𝘁𝗿𝗮𝗰𝘁𝘀 𝗻𝗲𝗮𝗿𝗹𝘆 𝟭𝟬 𝗰𝗲𝗻𝘁𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗰𝗼𝗺𝗽𝗮𝗻𝘆'𝘀 𝗿𝗲𝘃𝗲𝗻𝘂𝗲.
-- 𝗧𝗵𝗲 𝗥𝗲𝗮𝗹𝗶𝘁𝘆: Any promotion or manager-override that exceeds 25% is likely actively destroying value.
+- 𝗧𝗵𝗲 𝟯𝟬% 𝘁𝗵𝗿𝗲𝘀𝗵𝗼𝗹𝗱 𝗶𝘀 𝘁𝗵𝗲 𝗱𝗲𝗳𝗶𝗻𝗶𝘁𝗶𝘃𝗲 "𝗗𝗮𝗻𝗴𝗲𝗿 𝗭𝗼𝗻𝗲". At this level, 𝗲𝘃𝗲𝗿𝘆 𝗱𝗼𝗹𝗹𝗮𝗿 𝗼𝗳 𝘀𝗮𝗹𝗲𝘀 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝘀𝘂𝗯𝘁𝗿𝗮𝗰𝘁𝘀 𝗻𝗲𝗮𝗿𝗹𝘆 𝟭𝟬 𝗰𝗲𝗻𝘁𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗰𝗼𝗺𝗽𝗮𝗻𝘆'𝘀 𝗿𝗲𝘃𝗲𝗻𝘂𝗲. Any promotion or manager-override that 𝗲𝘅𝗰𝗲𝗲𝗱𝘀 𝟮𝟱% 𝗶𝘀 𝗮𝗰𝘁𝗶𝘃𝗲𝗹𝘆 𝗱𝗲𝘀𝘁𝗿𝗼𝘆𝗶𝗻𝗴 𝘃𝗮𝗹𝘂𝗲.
 
 <br>
 
 𝗧𝗵𝗲 "𝗛𝗶𝗴𝗵-𝗩𝗼𝗹𝘂𝗺𝗲, 𝗡𝗼-𝗣𝗿𝗼𝗳𝗶𝘁" 𝗧𝗿𝗮𝗽:
 
-At 𝟱𝟬% 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁, the store still generates $𝟵𝟬,𝟬𝟬𝟬 𝗶𝗻 𝘀𝗮𝗹𝗲𝘀.
-- 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁: On paper, a manager like 𝗔𝗻𝗻𝗮 𝗔𝗻𝗱𝗿𝗲𝗮𝗱𝗶 (𝗪𝗲𝘀𝘁) 𝗺𝗶𝗴𝗵𝘁 𝗹𝗼𝗼𝗸 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹 because she is "𝗺𝗼𝘃𝗶𝗻𝗴 𝗶𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆" and 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗵𝗶𝗴𝗵 𝘀𝗮𝗹𝗲𝘀 𝗳𝗶𝗴𝘂𝗿𝗲𝘀. However, 𝘁𝗵𝗲𝘀𝗲 𝘀𝗮𝗹𝗲𝘀 𝗿𝗲𝘀𝘂𝗹𝘁𝗲𝗱 𝗶𝗻 𝗮 $𝟮𝟲,𝟬𝟬𝟬 𝗹𝗼𝘀𝘀. This 𝗰𝗼𝗻𝗳𝗶𝗿𝗺𝘀 𝘁𝗵𝗮𝘁 "𝘀𝗮𝗹𝗲𝘀 𝘃𝗼𝗹𝘂𝗺𝗲" 𝗶𝘀 𝗮 𝘃𝗮𝗻𝗶𝘁𝘆 𝗺𝗲𝘁𝗿𝗶𝗰 in the West 𝗶𝗳 𝗶𝘁 𝗶𝘀 𝗯𝗲𝗶𝗻𝗴 𝗮𝗰𝗵𝗶𝗲𝘃𝗲𝗱 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝘁𝗵𝗲𝘀𝗲 𝗱𝗲𝗲𝗽 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀.
+- At 𝟱𝟬% 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁, Eastnat still generates $𝟵𝟬,𝟬𝟬𝟬 𝗶𝗻 𝘀𝗮𝗹𝗲𝘀.
+- On paper, a manager like 𝗔𝗻𝗻𝗮 𝗔𝗻𝗱𝗿𝗲𝗮𝗱𝗶 (𝗪𝗲𝘀𝘁) 𝗺𝗶𝗴𝗵𝘁 𝗹𝗼𝗼𝗸 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹 because she is "𝗺𝗼𝘃𝗶𝗻𝗴 𝗶𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆" and 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗵𝗶𝗴𝗵 𝘀𝗮𝗹𝗲𝘀 𝗳𝗶𝗴𝘂𝗿𝗲𝘀. However, 𝘁𝗵𝗲𝘀𝗲 𝘀𝗮𝗹𝗲𝘀 𝗿𝗲𝘀𝘂𝗹𝘁 𝗶𝗻 𝗮 $𝟮𝟲,𝟬𝟬𝟬 𝗹𝗼𝘀𝘀. This 𝗰𝗼𝗻𝗳𝗶𝗿𝗺𝘀 𝘁𝗵𝗮𝘁 "𝘀𝗮𝗹𝗲𝘀 𝘃𝗼𝗹𝘂𝗺𝗲" 𝗶𝘀 𝗮 𝘃𝗮𝗻𝗶𝘁𝘆 𝗺𝗲𝘁𝗿𝗶𝗰 in the West 𝗶𝗳 𝗶𝘁 𝗶𝘀 𝗯𝗲𝗶𝗻𝗴 𝗮𝗰𝗵𝗶𝗲𝘃𝗲𝗱 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝘁𝗵𝗲𝘀𝗲 𝗱𝗲𝗲𝗽 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀.
 
 <br>
 
 ✅ 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
 
 We should 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝗮 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗰𝗲𝗶𝗹𝗶𝗻𝗴 𝗼𝗳 𝟮𝟬% 𝗳𝗼𝗿 𝗮𝗹𝗹 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱 𝘀𝗮𝗹𝗲𝘀.
-- Any discount reaching 𝟯𝟬% 𝗼𝗿 𝗵𝗶𝗴𝗵𝗲𝗿 𝘀𝗵𝗼𝘂𝗹𝗱 𝗿𝗲𝗾𝘂𝗶𝗿𝗲 𝗮 𝘀𝗲𝗰𝗼𝗻𝗱𝗮𝗿𝘆 𝗮𝗽𝗽𝗿𝗼𝘃𝗮𝗹 𝗳𝗿𝗼𝗺 𝗮 𝘀𝗲𝗻𝗶𝗼𝗿 𝗱𝗶𝗿𝗲𝗰𝘁𝗼𝗿, as our data proves these transactions are mathematically 𝗴𝘂𝗮𝗿𝗮𝗻𝘁𝗲𝗲𝗱 𝘁𝗼 𝗯𝗲 𝘂𝗻𝗽𝗿𝗼𝗳𝗶𝘁𝗮𝗯𝗹𝗲.
+- Any discount reaching 𝟯𝟬% 𝗼𝗿 𝗵𝗶𝗴𝗵𝗲𝗿 𝘀𝗵𝗼𝘂𝗹𝗱 𝗿𝗲𝗾𝘂𝗶𝗿𝗲 𝗮 𝘀𝗲𝗰𝗼𝗻𝗱𝗮𝗿𝘆 𝗮𝗽𝗽𝗿𝗼𝘃𝗮𝗹 𝗳𝗿𝗼𝗺 𝗮 𝘀𝗲𝗻𝗶𝗼𝗿 𝗱𝗶𝗿𝗲𝗰𝘁𝗼𝗿, as the data proves these transactions are mathematically 𝗴𝘂𝗮𝗿𝗮𝗻𝘁𝗲𝗲𝗱 𝘁𝗼 𝗯𝗲 𝘂𝗻𝗽𝗿𝗼𝗳𝗶𝘁𝗮𝗯𝗹𝗲.
 - We should also 𝗰𝗿𝗼𝘀𝘀-𝗿𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲 𝘁𝗵𝗶𝘀 𝘄𝗶𝘁𝗵 𝗼𝘂𝗿 𝗦𝗲𝗿𝗶𝗮𝗹 𝗥𝗲𝘁𝘂𝗿𝗻𝗲𝗿 𝗹𝗶𝘀𝘁. If customers are 𝗯𝘂𝘆𝗶𝗻𝗴 𝗮𝘁 𝟱𝟬% 𝗼𝗳𝗳 𝗮𝗻𝗱 𝘁𝗵𝗲𝗻 𝗿𝗲𝘁𝘂𝗿𝗻𝗶𝗻𝗴 𝘁𝗵𝗲 𝗶𝘁𝗲𝗺𝘀, the store is 𝗹𝗼𝘀𝗶𝗻𝗴 𝗺𝗼𝗻𝗲𝘆 𝘁𝘄𝗶𝗰𝗲: once on the 𝗻𝗲𝗴𝗮𝘁𝗶𝘃𝗲 𝗺𝗮𝗿𝗴𝗶𝗻 and once on the 𝗿𝗲𝘁𝘂𝗿𝗻 𝗹𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀.
 
 ----
@@ -251,14 +248,18 @@ The analysis processed the transaction logs for the West region and 𝗶𝗱𝗲
 
 These specific orders are critical because 𝘁𝗵𝗲𝘆 𝗰𝗼𝗺𝗯𝗶𝗻𝗲 𝗱𝗲𝗲𝗽 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝘀 (𝟱𝟬–𝟳𝟬%) 𝘄𝗶𝘁𝗵 𝗵𝗶𝗴𝗵-𝘃𝗮𝗹𝘂𝗲 𝘀𝘂𝗯-𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀. They are effectively 𝘀𝗲𝗹𝗹𝗶𝗻𝗴 𝗮𝘁 𝗮 𝗹𝗼𝘀𝘀.
 
-<img width="686" height="221" alt="image" src="https://github.com/user-attachments/assets/89ddcad2-f9e8-4011-bf1c-88f0033f0f63" />
+<img width="1132" height="213" alt="image" src="https://github.com/user-attachments/assets/fb3fa121-f5e2-4fb5-813c-6782c09010f9" />
 
-1132
+
+- 𝗧𝗵𝗲 𝟳𝟬% 𝗕𝗶𝗻𝗱𝗲𝗿 𝗧𝗿𝗮𝗽: There is a significant cluster of 𝗕𝗶𝗻𝗱𝗲𝗿𝘀 𝗯𝗲𝗶𝗻𝗴 𝘀𝗼𝗹𝗱 𝗮𝘁 𝗮 𝟳𝟬% 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁. While the individual loss per order is smaller (e.g., $4 – $6), the sheer frequency suggests 𝗮𝗻 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗽𝗿𝗶𝗰𝗶𝗻𝗴 𝗲𝗿𝗿𝗼𝗿 or 𝗮𝗻 𝗼𝘃𝗲𝗿-𝗮𝗴𝗴𝗿𝗲𝘀𝘀𝗶𝘃𝗲 𝗰𝗹𝗲𝗮𝗿𝗮𝗻𝗰𝗲 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝘆 𝘁𝗵𝗮𝘁 𝗶𝘀 𝗯𝗮𝗰𝗸𝗳𝗶𝗿𝗶𝗻𝗴.
+- 𝗧𝗵𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲/𝗧𝗮𝗯𝗹𝗲 𝗖𝗿𝗶𝘀𝗶𝘀: Machines and Tables represent 𝘁𝗵𝗲 "𝗵𝗲𝗮𝘃𝘆 𝗵𝗶𝘁𝘁𝗲𝗿𝘀" 𝗼𝗳 𝗹𝗼𝘀𝘀. A single 𝟳𝟬% 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁 on a Machine (like Sharelle Roach’s order) can wipe out the profit of 𝟭𝟬𝟬 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹 𝘀𝗺𝗮𝗹𝗹𝗲𝗿 𝘀𝗮𝗹𝗲𝘀.
+
+
 ---
 
 3️⃣	𝗔𝘂𝗱𝗶𝘁 𝗮𝗻𝗱 𝗔𝗰𝘁𝗶𝗼𝗻 𝗣𝗹𝗮𝗻 𝗳𝗼𝗿 𝗔𝗻𝗻𝗮 𝗔𝗻𝗱𝗿𝗲𝗮𝗱𝗶
 
-We recommend using this list to 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝘁𝗵𝗿𝗲𝗲 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲 "𝗵𝗮𝗿𝗱 𝘀𝘁𝗼𝗽𝘀" 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻'𝘀 𝗳𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁 𝘀𝘆𝘀𝘁𝗲𝗺:
+We recommend using the "Profit Bleed" orders list to 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝘁𝗵𝗿𝗲𝗲 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲 "𝗵𝗮𝗿𝗱 𝘀𝘁𝗼𝗽𝘀" 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻'𝘀 𝗳𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁 𝘀𝘆𝘀𝘁𝗲𝗺:
 <br>
 - 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗖𝗲𝗶𝗹𝗶𝗻𝗴: Immediately 𝗱𝗶𝘀𝗮𝗯𝗹𝗲 𝘁𝗵𝗲 𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝘁𝗼 𝗮𝗽𝗽𝗹𝘆 𝗮 𝟳𝟬% 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁 on 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 and 𝗕𝗼𝗼𝗸𝗰𝗮𝘀𝗲𝘀 without 𝗩𝗣-𝗹𝗲𝘃𝗲𝗹 𝗮𝘂𝘁𝗵𝗼𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻. The data shows these are 𝟭𝟬𝟬% 𝗴𝘂𝗮𝗿𝗮𝗻𝘁𝗲𝗲𝗱 𝘁𝗼 𝗯𝗲 𝗱𝗲𝗲𝗽-𝗹𝗼𝘀𝘀 𝘁𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀.
 - 𝗢𝗿𝗱𝗲𝗿 𝗜𝗗 𝗥𝗲𝗰𝗹𝗮𝗺𝗮𝘁𝗶𝗼𝗻: For the specific Order IDs listed above (especially the 2020 orders), 𝗮𝘂𝗱𝗶𝘁 𝘄𝗵𝗲𝘁𝗵𝗲𝗿 𝘁𝗵𝗲𝘀𝗲 𝘄𝗲𝗿𝗲 𝗲𝘃𝗲𝗿 𝗿𝗲𝘁𝘂𝗿𝗻𝗲𝗱. If they were kept, 𝘄𝗲 𝗹𝗼𝘀𝘁 𝗰𝗮𝘀𝗵 𝗼𝗻 𝘁𝗵𝗲 𝗺𝗮𝗿𝗴𝗶𝗻; if they were returned, 𝘄𝗲 𝗹𝗼𝘀𝘁 𝗲𝘃𝗲𝗻 𝗺𝗼𝗿𝗲 𝗼𝗻 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗮𝗻𝗱 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴.
@@ -274,7 +275,6 @@ The data 𝗿𝗲𝘃𝗲𝗮𝗹𝘀 𝗮 𝘀𝘁𝗿𝗶𝗸𝗶𝗻𝗴 𝗼
 <br>
 
 <img width="1132" height="550" alt="image" src="https://github.com/user-attachments/assets/ebcf2a02-bbdf-4616-8cfc-1f8e35e2034d" />
-
 
 <br>
 
