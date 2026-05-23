@@ -1,5 +1,4 @@
 𝗦𝗔𝗟𝗘𝗦 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗔𝗡𝗗 𝗥𝗘𝗧𝗨𝗥𝗡𝗦 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦, 𝗘𝗔𝗦𝗧𝗡𝗔𝗧 𝗟𝗜𝗠𝗜𝗧𝗘𝗗 
-
 <br>
 
 ![hanson-lu-sq5P00L7lXc-unsplash](https://github.com/user-attachments/assets/74fc54bb-9619-4bf2-98d0-559ff9517e1b)
@@ -21,13 +20,66 @@ The objective of this project is to conduct a thorough evaluation of Eastnat Lim
 ---
 ---
 
+𝗘𝗫𝗘𝗖𝗨𝗧𝗜𝗩𝗘 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
+
+The analysis involved a comprehensive audit of sales and operational performance for Eastnat Limited. The primary goal was to identify "𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗩𝗮𝗺𝗽𝗶𝗿𝗲𝘀" - high-volume areas where deep discounting and systemic return issues were eroding net profitability. 
+
+<br>
+
+𝗞𝗣𝗜 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲:
+- 𝗖𝗼𝗿𝗲 𝗙𝗶𝗻𝗱𝗶𝗻𝗴: While global sales remained robust ($𝟮.𝟳𝗠), **Eastnat Limited faced a consistent 13% shortfall** relative to established **targets ($3.2M) across all regions.** 
+- **Critical Metrics:** Analyzed return rate, LTV, AOV, and profit margin to establish a baseline for operational health. 
+- **Lost Revenue:** Identified significant **"lost revenue" driven by high discounts (>30%)** and **return rates (>6%)** in specific product categories.
+
+<br>
+
+𝗧𝗵𝗲 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗔𝘂𝗱𝗶𝘁:
+- 𝗛𝗶𝗴𝗵-𝗩𝗼𝗹𝘂𝗺𝗲, 𝗗𝗲𝗲𝗽-𝗟𝗼𝘀𝘀 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀: Identified products in the 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 (e.g., the Lexmark MX611 printer's **$6,459.96 negative profit**) and 𝗧𝗮𝗯𝗹𝗲𝘀 (e.g., the Bush Advantage Collection's **$2,087.11 loss**) categories that **moved in high quantities but fell into the bottom 10% for profit.**
+- 𝗧𝗵𝗲 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗧𝗿𝗮𝗽: Discovered that **deep discounts (over 30%)** were attracting **"serial returners"**, creating an operational nightmare for logistics. 
+- 𝗣𝗿𝗼𝗳𝗶𝘁 𝗥𝗲𝗰𝗼𝘃𝗲𝗿𝘆: Projected 𝗮 𝟭𝟱–𝟮𝟬% 𝗿𝗲𝗰𝗼𝘃𝗲𝗿𝘆 𝗶𝗻 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗻𝗲𝘁 𝗽𝗿𝗼𝗳𝗶𝘁 by neutralizing the top 10 "vampire" products in high-risk zones (the West Region). 
+
+<br>
+
+𝗧𝗵𝗲 𝗪𝗲𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻 𝗖𝗿𝗶𝘀𝗶𝘀:
+- 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝘆: The West Region, managed by Anna Andreadi, faced a critical crisis with 𝗮 𝟮𝟬% 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲. 
+- 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗖𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗶𝗼𝗻: 𝟭𝟬𝟬% of the identified "𝘀𝗲𝗿𝗶𝗮𝗹 𝗿𝗲𝘁𝘂𝗿𝗻𝗲𝗿𝘀" (customers with 3+ return incidents) were 𝗰𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁. 
+- 𝗟𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀 𝗙𝗿𝗶𝗰𝘁𝗶𝗼𝗻: Orders in the West took significantly 𝗹𝗼𝗻𝗴𝗲𝗿 𝘁𝗼 𝘀𝗵𝗶𝗽 (𝟰.𝟭𝟯 𝗱𝗮𝘆𝘀), leading to increased customer frustration and buyer’s remorse. 
+
+<br>
+
+𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗠𝗮𝗿𝗴𝗶𝗻 𝗛𝗲𝗮𝗹𝘁𝗵:
+- 𝗧𝗵𝗲 𝗗𝗮𝗻𝗴𝗲𝗿 𝗭𝗼𝗻𝗲: Identified a systemic issue where 𝗕𝗶𝗻𝗱𝗲𝗿𝘀 𝘄𝗲𝗿𝗲 𝗯𝗲𝗶𝗻𝗴 𝘀𝗼𝗹𝗱 𝗮𝘁 𝗮 𝟳𝟬% 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁, likely due to an automated pricing error, causing thousands of small-ticket losses. 
+- 𝗦𝗲𝗴𝗺𝗲𝗻𝘁 𝗥𝗶𝘀𝗸: The 𝗖𝗼𝗻𝘀𝘂𝗺𝗲𝗿 𝘀𝗲𝗴𝗺𝗲𝗻𝘁 was responsible for 𝗼𝘃𝗲𝗿 𝟱𝟭% 𝗼𝗳 𝗿𝗲𝘁𝘂𝗿𝗻𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁, indicating high sensitivity to delays and dissatisfaction. 
+
+<br>
+
+𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝗼𝘁𝘁𝗹𝗲𝗻𝗲𝗰𝗸𝘀 𝗮𝗻𝗱 𝗠𝗮𝗻𝗮𝗴𝗲𝗿𝗶𝗮𝗹 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆
+- 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝘃𝘀. 𝗟𝘂𝗰𝗸: Compared managerial performance, finding that higher fulfillment quality and better customer expectation management in the South and Central regions led to significantly 𝗹𝗼𝘄𝗲𝗿 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲𝘀 (𝟰.𝟮𝟯% 𝗮𝗻𝗱 𝟰.𝟮𝟮%, 𝗿𝗲𝘀𝗽𝗲𝗰𝘁𝗶𝘃𝗲𝗹𝘆) compared to the 𝗪𝗲𝘀𝘁 (𝟭𝟰.𝟴𝟭%). 
+- 𝗦𝗵𝗶𝗽 𝗠𝗼𝗱𝗲 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Evaluated the volatility of "Same Day" vs. "Standard" shipping to optimize logistics costs. 
+- The "𝗳𝗮𝘀𝘁𝗲𝘀𝘁" 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗺𝗲𝘁𝗵𝗼𝗱𝘀 are the most likely to result in a return (𝗮𝘁 𝟭𝟯.𝟮𝟳% 𝗳𝗼𝗿 𝗦𝗮𝗺𝗲 𝗗𝗮𝘆 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝘃𝘀. 𝟳.𝟰𝟮% 𝗦𝘁𝗮𝗻𝗱𝗮𝗿𝗱 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴).
+
+<br>
+
+𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗶𝗻𝗴 𝗮𝗻𝗱 𝗣𝗮𝗿𝗲𝘁𝗼 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:
+- 𝗧𝗵𝗲 𝗩𝗶𝘁𝗮𝗹 𝗙𝗲𝘄: Identified a core group of 𝟮𝟴 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 𝘄𝗵𝗼 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗱 𝗽𝘂𝗿𝗲 𝗺𝗮𝗿𝗴𝗶𝗻 𝘄𝗶𝘁𝗵 𝘇𝗲𝗿𝗼 𝗿𝗲𝘁𝘂𝗿𝗻𝘀 𝗼𝗿 𝗹𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀 𝗳𝗿𝗶𝗰𝘁𝗶𝗼𝗻. 
+- 𝗣𝗿𝗼𝗳𝗶𝘁 𝗗𝗲𝗻𝘀𝗶𝘁𝘆: Found that while the Consumer segment drives volume, the Home Office and Corporate segments provided the strongest financial anchors for the business. 
+
+<br>
+
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁:
+- 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗖𝗮𝗽𝘀: Limit regional 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝗶𝗻𝗴 𝘁𝗼 𝟮𝟬% 𝗳𝗼𝗿 𝗵𝗶𝗴𝗵-𝗿𝗲𝘁𝘂𝗿𝗻 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀 to discourage bracket shopping. 
+- 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗥𝗲𝘁𝘂𝗿𝗻 𝗣𝗼𝗹𝗶𝗰𝗶𝗲𝘀: Introduce 𝗿𝗲𝘀𝘁𝗼𝗰𝗸𝗶𝗻𝗴 𝗳𝗲𝗲𝘀 or "𝗳𝗶𝗻𝗮𝗹 𝘀𝗮𝗹𝗲" 𝗰𝗼𝗻𝗱𝗶𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗵𝗶𝗴𝗵-𝗳𝗿𝗲𝗾𝘂𝗲𝗻𝗰𝘆 𝗿𝗲𝘁𝘂𝗿𝗻𝗲𝗿𝘀. 
+- 𝗦𝗵𝗶𝗳𝘁 𝗞𝗣𝗜 𝗜𝗻𝗰𝗲𝗻𝘁𝗶𝘃𝗲𝘀: Transition sales performance metrics from 𝘁𝗼𝘁𝗮𝗹 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 to 𝗻𝗲𝘁 𝗽𝗿𝗼𝗳𝗶𝘁 𝗮𝗳𝘁𝗲𝗿 𝗿𝗲𝘁𝘂𝗿𝗻𝘀 𝘁𝗼 𝗮𝗹𝗶𝗴𝗻 𝘁𝗲𝗮𝗺 𝗯𝗲𝗵𝗮𝘃𝗶𝗼𝗿 𝘄𝗶𝘁𝗵 𝗯𝗼𝘁𝘁𝗼𝗺-𝗹𝗶𝗻𝗲 𝗴𝗼𝗮𝗹𝘀. 
+- 𝗧𝗮𝗿𝗴𝗲𝘁𝗲𝗱 𝗢𝘂𝘁𝗿𝗲𝗮𝗰𝗵: Initiate proactive communication and status updates for long-lead-time orders to reduce frustration-driven cancellations. 
+
+---
+---
 𝗞𝗘𝗬 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗠𝗘𝗧𝗥𝗜𝗖𝗦 
 <br>
 
-<img width="1132" height="556" alt="image" src="https://github.com/user-attachments/assets/45be9116-4217-41f5-96e2-7ac376862154" />
+<img width="1132" height="550" alt="KPI" src="https://github.com/user-attachments/assets/ddb511b7-25af-4d69-9f45-55ce90da3682" />
 
 <br>
-
 1️⃣ 𝗚𝗹𝗼𝗯𝗮𝗹 𝗦𝗮𝗹𝗲𝘀
 
 ✅ 𝗧𝗵𝗲 "𝗛𝗶𝗴𝗵 𝗩𝗼𝗹𝘂𝗺𝗲, 𝗟𝗼𝘄 𝗩𝗮𝗹𝘂𝗲" 𝗧𝗿𝗮𝗽
@@ -137,7 +189,7 @@ While the overall store performance is strong, 𝗰𝗲𝗿𝘁𝗮𝗶𝗻 𝘀
 
 <br>
 
-<img width="985" height="555" alt="image" src="https://github.com/user-attachments/assets/e04f55d3-9ade-4cd6-89bd-5b195941ce08" />
+<img width="1132" height="552" alt="Return Impact" src="https://github.com/user-attachments/assets/a5cfa740-fa03-4bda-9ac1-e7582ec65e24" />
 
 <br>
 
@@ -190,7 +242,6 @@ The West region, 𝗺𝗮𝗻𝗮𝗴𝗲𝗱 𝗯𝘆 𝗔𝗻𝗻𝗮 𝗔𝗻
 - 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗥𝗲𝘃𝗶𝗲𝘄 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻: A mandatory 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝘂𝗱𝗶𝘁 𝗶𝘀 𝗿𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗲𝗱 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁 𝗿𝗲𝗴𝗶𝗼𝗻. We need to 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗲 𝗶𝗳 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲 𝗶𝘀 𝗱𝘂𝗲 𝘁𝗼 𝗮 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝘄𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲’𝘀 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗲𝗿𝗿𝗼𝗿𝘀, an 𝗮𝗴𝗴𝗿𝗲𝘀𝘀𝗶𝘃𝗲 𝘀𝗮𝗹𝗲𝘀 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝘁𝗵𝗮𝘁 𝗼𝘃𝗲𝗿-𝗽𝗿𝗼𝗺𝗶𝘀𝗲𝘀 𝗼𝗻 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗰𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀, or 𝗮 𝗵𝗶𝗴𝗵 𝗰𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲 "𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀" 𝘀𝘂𝗯-𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝘆 𝗿𝗲𝘁𝘂𝗿𝗻𝘀 𝗶𝗻 𝘁𝗵𝗮𝘁 𝗮𝗿𝗲𝗮.
 - 𝗠𝗲𝗻𝘁𝗼𝗿𝘀𝗵𝗶𝗽 𝗣𝗿𝗼𝗴𝗿𝗮𝗺: Implement 𝗮 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲-𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗶𝗻𝗶𝘁𝗶𝗮𝘁𝗶𝘃𝗲 𝘄𝗵𝗲𝗿𝗲 𝗞𝗲𝗹𝗹𝘆 𝗪𝗶𝗹𝗹𝗶𝗮𝗺𝘀 (𝗖𝗲𝗻𝘁𝗿𝗮𝗹) 𝘀𝗵𝗮𝗿𝗲𝘀 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗯𝗲𝘀𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀 for order accuracy and customer follow-up 𝘄𝗶𝘁𝗵 𝗔𝗻𝗻𝗮 𝗔𝗻𝗱𝗿𝗲𝗮𝗱𝗶 and 𝗖𝗵𝘂𝗰𝗸 𝗠𝗮𝗴𝗲𝗲.
 
-1132
 
 ---
 ---
@@ -395,11 +446,7 @@ The data proves that the West's high return rate isn't caused by "difficult" pro
 
 The results of the RFM analysis provide a clear view of Eastnat’s customer health. Based on the analysis, below is the interpretation of these segments and the strategic recommendations for management to protect margins and recover profit.
 
-<br>
-
 <img width="1132" height="228" alt="image" src="https://github.com/user-attachments/assets/9de6f4ea-fb47-4adb-80b9-813851046f92" />
-
-<br>
 
 ✅ 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
 
