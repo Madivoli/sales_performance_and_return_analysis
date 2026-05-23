@@ -7,7 +7,7 @@
 
 𝗜𝗡𝗧𝗥𝗢𝗗𝗨𝗖𝗧𝗜𝗢𝗡
 
-The objective of this project is to conduct a thorough evaluation of Eastnat Limited’s sales and profitability data, covering the years 2016 to 2021, to uncover key business insights. This analysis goes beyond simple top-line revenue to 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗲 𝘁𝗵𝗲 𝘂𝗻𝗱𝗲𝗿𝗹𝘆𝗶𝗻𝗴 𝗳𝗮𝗰𝘁𝗼𝗿𝘀 𝘁𝗵𝗮𝘁 𝗲𝗿𝗼𝗱𝗲 𝗺𝗮𝗿𝗴𝗶𝗻𝘀, with a specific focus on geographic profit pockets and 𝘁𝗵𝗲 𝗶𝗺𝗽𝗮𝗰𝘁 𝗼𝗳 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗰𝗼𝘀𝘁𝘀 𝗼𝗻 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲. By integrating multi-year sales data with return and representative records, 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗮𝗶𝗺𝘀 𝘁𝗼 𝗲𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵 𝗮 "𝘀𝗼𝘂𝗿𝗰𝗲 𝗼𝗳 𝘁𝗿𝘂𝘁𝗵" 𝗳𝗼𝗿 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝘆𝗶𝗻𝗴 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝗻𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝗶𝗲𝘀 𝗮𝗻𝗱 𝘀𝗰𝗮𝗹𝗶𝗻𝗴 𝘁𝗵𝗲 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀.
+The objective of this project wis to conduct a thorough evaluation of Eastnat Limited’s sales and profitability data, covering the years 2016 to 2021, to uncover key business insights. This analysis goes beyond simple top-line revenue to 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗲 𝘁𝗵𝗲 𝘂𝗻𝗱𝗲𝗿𝗹𝘆𝗶𝗻𝗴 𝗳𝗮𝗰𝘁𝗼𝗿𝘀 𝘁𝗵𝗮𝘁 𝗲𝗿𝗼𝗱𝗲 𝗺𝗮𝗿𝗴𝗶𝗻𝘀, with a specific focus on geographic profit pockets and 𝘁𝗵𝗲 𝗶𝗺𝗽𝗮𝗰𝘁 𝗼𝗳 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗰𝗼𝘀𝘁𝘀 𝗼𝗻 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲. By integrating multi-year sales data with return and representative records, 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗮𝗶𝗺𝘀 𝘁𝗼 𝗲𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵 𝗮 "𝘀𝗼𝘂𝗿𝗰𝗲 𝗼𝗳 𝘁𝗿𝘂𝘁𝗵" 𝗳𝗼𝗿 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝘆𝗶𝗻𝗴 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝗻𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝗶𝗲𝘀 𝗮𝗻𝗱 𝘀𝗰𝗮𝗹𝗶𝗻𝗴 𝘁𝗵𝗲 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀.
 
 
 <br>
