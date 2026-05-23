@@ -24,6 +24,8 @@ The objective of this project wis to conduct a thorough evaluation of Eastnat Li
 
 The analysis involved a comprehensive audit of sales and operational performance for Eastnat Limited. The primary goal was to identify "𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗩𝗮𝗺𝗽𝗶𝗿𝗲𝘀" - high-volume areas where deep discounting and systemic return issues were eroding net profitability. 
 
+<img width="1132" height="555" alt="image" src="https://github.com/user-attachments/assets/f9a7ae56-74ec-4729-a641-ec5c977ee5e4" />
+
 <br>
 
 𝗞𝗣𝗜 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲:
