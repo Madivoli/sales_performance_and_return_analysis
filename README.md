@@ -29,21 +29,21 @@ The analysis involved a comprehensive audit of sales and operational performance
 𝗞𝗣𝗜 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲:
 - 𝗖𝗼𝗿𝗲 𝗙𝗶𝗻𝗱𝗶𝗻𝗴: While global sales remained robust ($𝟮.𝟳𝗠), **Eastnat Limited faced a consistent 13% shortfall** relative to established **targets ($3.2M) across all regions.** 
 - **Critical Metrics:** Analyzed return rate, LTV, AOV, and profit margin to establish a baseline for operational health. 
-- **Lost Revenue:** Identified significant **"lost revenue" driven by high discounts (>30%)** and **return rates (>6%)** in specific product categories.
+- **Lost Revenue:** Significant **"lost revenue" was driven by high discounts (>30%)** and **return rates (>6%)** in specific product categories.
 
 <br>
 
 𝗧𝗵𝗲 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗔𝘂𝗱𝗶𝘁:
-- 𝗛𝗶𝗴𝗵-𝗩𝗼𝗹𝘂𝗺𝗲, 𝗗𝗲𝗲𝗽-𝗟𝗼𝘀𝘀 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀: Identified products in the 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 (e.g., the Lexmark MX611 printer's **$6,459.96 negative profit**) and 𝗧𝗮𝗯𝗹𝗲𝘀 (e.g., the Bush Advantage Collection's **$2,087.11 loss**) categories that **moved in high quantities but fell into the bottom 10% for profit.**
-- 𝗧𝗵𝗲 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗧𝗿𝗮𝗽: Discovered that **deep discounts (over 30%)** were attracting **"serial returners"**, creating an operational nightmare for logistics. 
-- 𝗣𝗿𝗼𝗳𝗶𝘁 𝗥𝗲𝗰𝗼𝘃𝗲𝗿𝘆: Projected 𝗮 𝟭𝟱–𝟮𝟬% 𝗿𝗲𝗰𝗼𝘃𝗲𝗿𝘆 𝗶𝗻 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗻𝗲𝘁 𝗽𝗿𝗼𝗳𝗶𝘁 by neutralizing the top 10 "vampire" products in high-risk zones (the West Region). 
+- 𝗛𝗶𝗴𝗵-𝗩𝗼𝗹𝘂𝗺𝗲, 𝗗𝗲𝗲𝗽-𝗟𝗼𝘀𝘀 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀: Products in the 𝗠𝗮𝗰𝗵𝗶𝗻𝗲𝘀 (e.g., the Lexmark MX611 printer's **$6,459.96 negative profit**) and 𝗧𝗮𝗯𝗹𝗲𝘀 (e.g., the Bush Advantage Collection's **$2,087.11 loss**) categories **moved in high quantities but fell into the bottom 10% for profit.**
+- 𝗧𝗵𝗲 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗧𝗿𝗮𝗽: **Deep discounts (over 30%)** were attracting **"serial returners"**, creating an operational nightmare for logistics. 
+- 𝗣𝗿𝗼𝗳𝗶𝘁 𝗥𝗲𝗰𝗼𝘃𝗲𝗿𝘆: By neutralizing the top 10 "vampire" products in high-risk zones (the West Region), it is projected that 𝗮 𝟭𝟱–𝟮𝟬% 𝗶𝗻 𝗿𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗻𝗲𝘁 𝗽𝗿𝗼𝗳𝗶𝘁 will be recovered. 
 
 <br>
 
 𝗧𝗵𝗲 𝗪𝗲𝘀𝘁 𝗥𝗲𝗴𝗶𝗼𝗻 𝗖𝗿𝗶𝘀𝗶𝘀:
-- 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝘆: The West Region, managed by Anna Andreadi, faced a critical crisis with 𝗮 𝟮𝟬% 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲. 
-- 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗖𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗶𝗼𝗻: 𝟭𝟬𝟬% of the identified "𝘀𝗲𝗿𝗶𝗮𝗹 𝗿𝗲𝘁𝘂𝗿𝗻𝗲𝗿𝘀" (customers with 3+ return incidents) were 𝗰𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁. 
-- 𝗟𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀 𝗙𝗿𝗶𝗰𝘁𝗶𝗼𝗻: Orders in the West took significantly 𝗹𝗼𝗻𝗴𝗲𝗿 𝘁𝗼 𝘀𝗵𝗶𝗽 (𝟰.𝟭𝟯 𝗱𝗮𝘆𝘀), leading to increased customer frustration and buyer’s remorse. 
+- 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝘀𝗽𝗮𝗿𝗶𝘁𝘆: The West Region, managed by Anna Andreadi, faces a critical crisis with 𝗮 𝟮𝟬% 𝗿𝗲𝘁𝘂𝗿𝗻 𝗿𝗮𝘁𝗲. 
+- 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗖𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗶𝗼𝗻: 𝟭𝟬𝟬% of the identified "𝘀𝗲𝗿𝗶𝗮𝗹 𝗿𝗲𝘁𝘂𝗿𝗻𝗲𝗿𝘀" (customers with 3+ return incidents) are 𝗰𝗼𝗻𝗰𝗲𝗻𝘁𝗿𝗮𝘁𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗲𝘀𝘁. 
+- 𝗟𝗼𝗴𝗶𝘀𝘁𝗶𝗰𝘀 𝗙𝗿𝗶𝗰𝘁𝗶𝗼𝗻: Orders in the West take significantly 𝗹𝗼𝗻𝗴𝗲𝗿 𝘁𝗼 𝘀𝗵𝗶𝗽 (𝟰.𝟭𝟯 𝗱𝗮𝘆𝘀), leading to increased customer frustration and buyer’s remorse. 
 
 <br>
 
